@@ -2,7 +2,7 @@
 layout: post
 title: "The Buddha's Mind"
 author: "Cittadhammo Bhikkkhu"
-categories: diagram
+categories: Diagrams
 ---
 
 ## Un titre en français 
