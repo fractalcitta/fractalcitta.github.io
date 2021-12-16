@@ -1,8 +1,10 @@
-- title: About
-  url: /about.html
+
 
 - title: Categories
   url: /categories.html
+  
+- title: About
+  url: /about.html
 
-- title: Test
-  url: /test.html
+- title: Old Site
+  url: http://www.yatiko.c1.biz
