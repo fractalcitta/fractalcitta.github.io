@@ -10,10 +10,14 @@ categories: Diagrams
 
 Ceci est un test pour voir[^1]
 
-# Un Gros titre
-
 Avec du text
 
+![image_info](./assets/images/T4.png)
+
+
 ### Un petit titre
+
+![image_info](/assets/images/T4.png)
+
 
 [^1]: This is some text for a footnote.
