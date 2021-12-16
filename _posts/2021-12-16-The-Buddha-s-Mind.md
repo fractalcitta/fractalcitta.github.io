@@ -5,19 +5,6 @@ author: "Cittadhammo Bhikkkhu"
 categories: Diagrams
 ---
 
-<head>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"></script>
-    <style>
-    #image-map {
-      width: 100%;
-      height: 300px;
-      border: 1px solid #ccc;
-      margin-bottom: 10px;
-    }
-    </style>
-  </head>
-
-
 ![The Buddha's Mind](/assets/images/T4.png)
 
 
