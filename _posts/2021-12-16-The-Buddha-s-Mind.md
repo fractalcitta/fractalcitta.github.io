@@ -36,8 +36,5 @@ Inspiration bla bla bla
 
 ## Another test
 
-{% include test.html %}
-
-
 
 [^1]: This is some text for a footnote.
