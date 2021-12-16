@@ -2,7 +2,7 @@
 layout: post
 title: "Bhikkhu Patimokkha"
 author: "Cittadhammo Bhikkkhu"
-categories: diagram
+categories: Diagrams
 ---
 
 ## Un titre en français 
