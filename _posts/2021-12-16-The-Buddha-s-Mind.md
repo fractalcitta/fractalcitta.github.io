@@ -4,7 +4,7 @@ title: "The Buddha's Mind"
 author: "Cittadhammo Bhikkkhu"
 categories: Diagrams
 ---
-![The Bouddha's Mind](assets/images/T4.png)
+![The Bouddha's Mind](./assets/images/T4.png)
 
 un test pour voir[^1]
 
