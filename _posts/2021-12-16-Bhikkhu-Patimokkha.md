@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bhikkhu Patimokkha"
-author: "Cittadhammo Bhikkkhu"
+author: "Cittadhammo Bhikkhu"
 categories: Diagrams
 ---
 
