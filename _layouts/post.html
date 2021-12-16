@@ -23,7 +23,7 @@ layout: default
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <h3 class="cat-link"><a href="{{site.baseurl}}/categories.html#{{category|slugize}}">{{category}}</a></h3>
+  <h4 ><a class="cat-link" href="{{site.baseurl}}/categories.html#{{category|slugize}}">{{category}}</a></h4>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
   </div>
