@@ -7,9 +7,9 @@ title: Categories
 
 <main class="home" id="main" role="main" aria-label="Content">
   
-  <h2>
+  <h1 class="content-title divided">
       {{ page.title }}
-  </h2>
+  </h1>
   
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
