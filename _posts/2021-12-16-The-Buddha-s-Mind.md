@@ -5,18 +5,34 @@ author: "Cittadhammo Bhikkkhu"
 categories: Diagrams
 ---
 
-## Un titre en français 
 
-Ceci est un test pour voir[^1]
-
-Avec du text
-
-![image_info2](/assets/images/T4.png)
+![The Buddha's Mind](/assets/images/T4.png)
 
 
-### Un petit titre
+## 
 
-![image_info](/img/T4.png)
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla[^1]
+Inspiration bla bla bla 
+Inspiration bla bla bla 
 
+
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
+Inspiration bla bla bla 
 
 [^1]: This is some text for a footnote.
