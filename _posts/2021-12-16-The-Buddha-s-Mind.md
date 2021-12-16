@@ -9,7 +9,7 @@ categories: Diagrams
 ![The Buddha's Mind](/assets/images/T4.png)
 
 
-## 
+## Inspiration
 
 Inspiration bla bla bla 
 Inspiration bla bla bla 
