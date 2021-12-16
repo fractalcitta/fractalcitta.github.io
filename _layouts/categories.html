@@ -3,8 +3,20 @@ layout: default
 permalink: /categories/
 title: Categories
 ---
+  {% include menu.html %}
+  {% include back-link.html %}
 
-<div id="archives">
+<main class="home" id="main" role="main" aria-label="Content">
+
+  <h1 class="content-title divided">
+    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
+      Page {{ paginator.page }}
+    {% else %}
+      Contents
+    {% endif %}
+  </h1>
+  
+  <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -18,4 +30,23 @@ title: Categories
     {% endfor %}
   </div>
 {% endfor %}
+  
+
+  
+
+    
+
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+  
+  
+    
+
+</main>
+
+
 </div>
