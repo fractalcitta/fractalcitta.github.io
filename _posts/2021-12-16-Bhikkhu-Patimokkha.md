@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Buddha's Mind 2"
+title: "Bhikkhu Patimokkha"
 author: "Cittadhammo Bhikkkhu"
 categories: Diagrams
 ---
