@@ -4,7 +4,6 @@ title: "The Buddha's Mind"
 author: "Cittadhammo Bhikkkhu"
 categories: Diagrams
 ---
-![The Bouddha's Mind](../img/T4.png)
 
 ## Un titre en français 
 
@@ -12,7 +11,7 @@ Ceci est un test pour voir[^1]
 
 Avec du text
 
-![image_info](./img/T4.png)
+![image_info2](/assets/images/T4.png)
 
 
 ### Un petit titre
