@@ -32,9 +32,6 @@ layout: default
     {% endif %}
   </h1>
   
-  {% for post in site.categories.diagram %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
 
   {% if site.paginate and site.paginate_path %}
     
