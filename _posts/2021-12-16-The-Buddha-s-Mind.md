@@ -7,7 +7,7 @@ categories: Diagrams
 
 ![The Buddha's Mind](/assets/images/T4.png)
 
-##### Full Sreen
+##### [Full Sreen](https://fractalcitta.github.io/fullScreenTest.html)
 
 
 ## Inspiration
