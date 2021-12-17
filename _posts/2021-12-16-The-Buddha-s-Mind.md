@@ -7,6 +7,8 @@ categories: Diagrams
 
 ![The Buddha's Mind](/assets/images/T4.png)
 
+##### Full Sreen
+
 
 ## Inspiration
 
@@ -35,8 +37,6 @@ Inspiration bla bla bla
 Inspiration bla bla bla 
 
 ## Another test
-
-{% include leaflet.html %}
 
 
 
