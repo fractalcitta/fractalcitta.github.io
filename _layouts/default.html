@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
+    
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
@@ -21,7 +23,8 @@
 
   </head>
   <body>
-
+    
+	  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 
     {{ content }}
 
