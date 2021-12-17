@@ -1,5 +1,5 @@
 ---
-layout: map
+layout: default
 title: test3
 map-url: "test-url"
 ---
