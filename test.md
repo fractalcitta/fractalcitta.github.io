@@ -3,5 +3,5 @@ layout: page
 title: test
 ---
 
-{{% inclide leaflet.html %}}
+{{% include leaflet.html %}}
 
