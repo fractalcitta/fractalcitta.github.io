@@ -53,6 +53,7 @@
 			zoom: 0.8,
 			crs: L.CRS.Simple
 		});
+		
 
 
 		//
@@ -65,6 +66,7 @@
 				var southWest = map.unproject([0, h], map.getMaxZoom() - 1);
 				var northEast = map.unproject([w, 0], map.getMaxZoom() - 1);
 				var bounds = new L.LatLngBounds(southWest, northEast);
+                                
 
 				// add the image overlay, 
 				// so that it covers the entire map
@@ -72,6 +74,8 @@
 
 				// tell leaflet that the map is exactly as big as the image
 				map.setMaxBounds(bounds);
+				map.fitBounds(bounds); // test
+
 			});
 			img.src = url;
 		}
