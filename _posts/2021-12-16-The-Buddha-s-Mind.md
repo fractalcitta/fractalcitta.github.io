@@ -15,7 +15,7 @@ categories: Diagrams
 > 
 > -- MN 28
 
-## Sources
+### Sources
 
 - [Observable](https://observablehq.com/d/2ad7993187bb039f?collection=@7722371e7ecac8bd/finished) : The code used to create the diagram
 - [Interactive Dhamma Guide](https://www.idhamma.org/) : Prezi Presentation, very good !
