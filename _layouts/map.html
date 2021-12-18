@@ -21,9 +21,7 @@
 	<div id="image-map"></div>
 
 	<script src="https://fractalcitta.github.io/assets/js/leaflet.js"></script>
-	
 	<script>
-
 		// Using leaflet.js to pan and zoom a big image.
 		// See also: http://kempe.net/blog/2014/06/14/leaflet-pan-zoom-image.html
 
@@ -40,7 +38,6 @@
 		//
 
 		function getMeta(url) {
-
 			const img = new Image();
 			img.addEventListener("load", function () {
 				var w = this.naturalWidth;
@@ -60,9 +57,7 @@
 		}
 
 		getMeta("{{ page.map-url }}")
-
 	</script>
 
 </body>
 
-</html>
