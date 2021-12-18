@@ -44,6 +44,11 @@
 	<script>
 		// Using leaflet.js to pan and zoom a big image.
 		// See also: http://kempe.net/blog/2014/06/14/leaflet-pan-zoom-image.html
+		var factor = 1;
+		{% if page.factor %}
+		   factor = page.factor;
+		{% endif %}
+		
 
 		// create the slippy map
 		var map = L.map('image-map', {
@@ -61,8 +66,8 @@
 		function getMeta(url) {
 			const img = new Image();
 			img.addEventListener("load", function () {
-				var w = this.naturalWidth;
-				var h = this.naturalHeight;
+				var w = this.naturalWidth * factor;
+				var h = this.naturalHeight * factor;
 				var southWest = map.unproject([0, h], map.getMaxZoom() - 1);
 				var northEast = map.unproject([w, 0], map.getMaxZoom() - 1);
 				var bounds = new L.LatLngBounds(southWest, northEast);
