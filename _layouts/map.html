@@ -12,7 +12,7 @@
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
-    <link rel="stylesheet" href="https://fractalcitta.github.io/assets/css/leaflet.css">
+    <link rel="stylesheet" href="{{ '/assets/css/leaflet.css' | absolute_url }}">
 	  
     <style>
 		body {
@@ -40,7 +40,7 @@
 <body>
 	<div id="image-map"></div>
 
-	<script src="https://fractalcitta.github.io/assets/js/leaflet.js"></script>
+	<script src="{{ '/assets/js/leaflet.js' | absolute_url }}"></script>
 	<script>
 		// Using leaflet.js to pan and zoom a big image.
 		// See also: http://kempe.net/blog/2014/06/14/leaflet-pan-zoom-image.html
