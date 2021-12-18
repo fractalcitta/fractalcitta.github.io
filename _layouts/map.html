@@ -4,7 +4,7 @@
 <!-- See also: http://kempe.net/blog/2014/06/14/leaflet-pan-zoom-image.html -->
 
 <head>
-	<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -12,17 +12,10 @@
 
     {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
 
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
-
     <link rel="apple-touch-icon" href="{{ site.icon }}">
     
     <link rel="stylesheet" href="{{ '/assets/css/leaflet.css' | absolute_url }}">
-
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
-    {%- endif -%}
 	
-	<link rel="stylesheet" href="https://fractalcitta.github.io/assets/css/leaflet.css">
 	<style>
 		#image-map {
 			width: 100%;
@@ -39,7 +32,7 @@
 <body>
 	<div id="image-map"></div>
 
-	<script src="https://fractalcitta.github.io/assets/js/leaflet.js"></script>
+	<script src="{{ '/assets/js/leaflet.js' | absolute_url }}"></script>
 	
 	<script>
 
