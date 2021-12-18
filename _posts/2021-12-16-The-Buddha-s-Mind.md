@@ -5,7 +5,7 @@ author: "Cittadhammo Bhikkkhu"
 categories: Diagrams
 ---
 
-[![The Buddha's Mind](/assets/images/T4.png)](https://fractalcitta.github.io/test2.html){:target="_blank"}
+[![The Buddha's Mind](/assets/images/T4.png)](/assets/maps/buddha-s-mind.html){:target="_blank"}
 
 {% comment %}
 ##### [Full Sreen](https://fractalcitta.github.io/test2.html)
