@@ -18,8 +18,8 @@ categories: Diagrams
 ## Sources
 
 - [Observable](https://observablehq.com/d/2ad7993187bb039f?collection=@7722371e7ecac8bd/finished) : The code used to create the diagram
-- [interactive Dhamma Guide](https://www.idhamma.org/) very good !
+- [Interactive Dhamma Guide](https://www.idhamma.org/) : Prezi Presentation, very good !
 - [Outilne of Buddhisme](https://en.wikipedia.org/wiki/Outline_of_Buddhism)
 - [Buddhadust](http://buddhadust.net/)
-- [Access to Insight, A path to Freedom](https://www.accesstoinsight.org/ptf/index.html)
-- [stange website Lucid24](https://www.lucid24.org/sted/8aam/index.html)
+- [Access to Insight](https://www.accesstoinsight.org/ptf/index.html) : A Path to Freedom
+- [Lucid24](https://www.lucid24.org/sted/8aam/index.html) : Strang website
