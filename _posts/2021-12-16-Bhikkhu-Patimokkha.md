@@ -5,7 +5,7 @@ author: "Cittadhammo Bhikkhu"
 categories: Diagrams
 ---
 
-[![Bhikkhu Pāṭimokkha](/assets/images/bhikkhu-patimokkha.svg)](/assets/maps/bhikkhu-patimokkha.html){:target="_blank"}
+[![Bhikkhu Pāṭimokkha](/assets/images/bhikkhu-patimokkha.svg)](/assets/maps/bhikkhu-patimokkha2.html)
 
 
 ### Primary Sources
