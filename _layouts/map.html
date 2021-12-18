@@ -1,10 +1,20 @@
 <!DOCTYPE html>
-<html>
-<!-- See also: http://kempe.net/blog/2014/06/14/leaflet-pan-zoom-image.html -->
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
 
-<head>
-	<link rel="stylesheet" href="https://fractalcitta.github.io/assets/css/leaflet.css">
-	<style>
+    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+
+    <link rel="apple-touch-icon" href="{{ site.icon }}">
+
+    <link rel="stylesheet" href="https://fractalcitta.github.io/assets/css/leaflet.css">
+	  
+    <style>
 		body {
 			padding: 0;
 			margin: 0;
@@ -24,7 +34,7 @@
 			background-color: rgba(255, 0, 0, 0.0);
 			outline: 0;
 		}
-	</style>
+    </style>
 </head>
 
 <body>
