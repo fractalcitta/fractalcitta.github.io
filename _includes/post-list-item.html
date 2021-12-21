@@ -5,11 +5,12 @@
           <h1 class="post-link__title">      
             {{ post.title }}
           </h1>
-      {% else %}
-      {% unless post.categories == "" %}
+          </br>
+          {% unless post.categories == "" %}
           <h4>      
             {{ post.categories }}
           </h4>
+          {% endunless %}
       {% else %}
         {% include post-excerpt.html %}
       {% endunless %}
