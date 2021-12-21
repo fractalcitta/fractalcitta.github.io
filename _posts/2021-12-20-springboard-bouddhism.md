@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sprinboard Buddhsime
-categories: Projects
+categories: Ideas
 ---
 
 Talking with Beau, I realised that I've worked on a similar project many years ago. 
@@ -18,8 +18,14 @@ Using a mandala Symbol. I've design the "Magga Stupa" which can be used.
 
 ### Theravada Video Project (TVP)
 
-Creating next generation video material, similat to Veritasium. Like this [video](https://www.youtube.com/watch?v=IgF3OX8nT0w)
+Creating next generation video material, similar to Veritasium. Like this [video](https://www.youtube.com/watch?v=IgF3OX8nT0w).
+
+Another good inspiration is [Ajahn Sona Youtube Chanel](https://www.youtube.com/c/AjahnSona).
 
 ### Sangha App
 
 An old project I had with a programmer. Creating an App that allow meditators (or Dhamma enthousiastic) to find each other in the real workd.
+
+Below is an old draft of a similar project in a Vipassana Center.
+
+![Sangha](/assets/images/sangha.pdf)
