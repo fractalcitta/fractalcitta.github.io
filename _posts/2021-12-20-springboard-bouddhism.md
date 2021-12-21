@@ -28,4 +28,4 @@ An old project I had with a programmer. Creating an App that allow meditators (o
 
 Below is an old draft of a similar project in a Vipassana Center.
 
-![Sangha](/assets/images/sangha.pdf)
+<object data="/assets/images/sangha.pdf" width="1000" height="1000" type='application/pdf'></object>
