@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MaggaVibhanga Suttpa
+title: Magga Vibhanga Stupa
 athor: Lancelot Moreau
 categories: Art
 ---
