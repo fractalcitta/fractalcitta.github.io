@@ -5,9 +5,9 @@
           <h1 class="post-link__title">      
             {{ post.title }}
           </h1>
-          {% unless post.categories == "" %}
+          <!--{% unless post.categories == "" %}
           <div class="post-cat-home">{{ post.categories }}<div>
-          {% endunless %}
+          {% endunless %}-->
       {% else %}
         {% include post-excerpt.html %}
       {% endunless %}
