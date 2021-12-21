@@ -6,6 +6,11 @@
             {{ post.title }}
           </h1>
       {% else %}
+      {% unless post.categories == "" %}
+          <h4>      
+            {{ post.categories }}
+          </h4>
+      {% else %}
         {% include post-excerpt.html %}
       {% endunless %}
       {% if post.title != "" and site.show_excerpts == true %}
