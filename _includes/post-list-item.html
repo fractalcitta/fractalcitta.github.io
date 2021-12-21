@@ -5,8 +5,8 @@
           <h1 class="post-link__title">      
             {{ post.title }}
           </h1>
-          </br>
           {% unless post.categories == "" %}
+          </br>
           <div class="post-cat-home">{{ post.categories }}<div>
           {% endunless %}
       {% else %}
