@@ -3,14 +3,11 @@ layout: post
 title: Magga Vibhanga Stupa
 athor: Lancelot Moreau
 categories: Art
-carousels:
-  - images: 
-    - image: /assets/images/stupaa.jpg
-    - image: /assets/images/stupaa2.jpg
-    - image: /assets/images/stupaa3.jpg
-    - image: /assets/images/stupaa4.jpg
 ---
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+![sutpa1](/assets/images/stupaa.jpg)
+![sutpa2](/assets/images/stupaa2.jpg)
+![sutpa3](/assets/images/stupaa3.jpg)
+![sutpa4](/assets/images/stupaa4.jpg)
 
 Test
