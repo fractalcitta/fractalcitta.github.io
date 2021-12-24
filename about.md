@@ -18,6 +18,7 @@ To access the repo of the site : [Fractal Citta Repo](https://github.com/fractal
 GitHub Page uses Jekyll to build this site : 
 
 - [Doc with addons](https://jekyllcodex.org/)
+- [Image gallery](https://dmnfarrell.github.io/software/jekyll-galleries)
 
 
 
