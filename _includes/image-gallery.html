@@ -9,7 +9,6 @@
 
 <div class="image-gallery">
     {% for file in site.static_files %}
-    {% increment my_counter %}
     {% if file.path contains include.folder %}{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
     {% assign filenameparts = file.path | split: "/" %}
     {% assign filename = filenameparts | last | replace: file.extname,"" %}
@@ -19,7 +18,7 @@
                       {{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" 
                  alt="{{ filename }}" 
                  title="{{ filename }}"
-                 data-lightbox="IMAGE-{{ my_counter }}"/>
+                 data-lightbox="IMAGE-{% increment my_counter %}"/>
             <!--<span>{{ filename }}</span>-->
         </a>
     </div>
