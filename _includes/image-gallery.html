@@ -1,12 +1,12 @@
 <style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 24%;}
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block;}
+    .image-gallery0 {overflow: auto; margin-left: -1%!important;}
+    .image-gallery0 li {float: left; display: block; margin: 0 0 1% 1%; width: 24%;}
+    .image-gallery0 li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery0 li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery0 li a img {width: 100%; display: block;}
 </style>
 
-<ul class="image-gallery">
+<ul class="image-gallery0">
     {% for file in site.static_files %}
     {% if file.path contains include.folder %}{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
     {% assign filenameparts = file.path | split: "/" %}
