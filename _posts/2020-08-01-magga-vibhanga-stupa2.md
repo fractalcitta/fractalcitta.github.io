@@ -5,8 +5,6 @@ athor: Lancelot Moreau
 categories: Art
 ---
 
-## Image-gallery
-
 ![sutpa1](/assets/images/stupaa.jpg){: .no-margin-bottom}
 {% include image-gallery-nogap.html folder="/assets/images/stupas" %}
 
@@ -14,6 +12,6 @@ This design is based on the [Magga-Vibhaṅga Sutta](https://www.dhammatalks.org
 
 ## Plan 
 
-![sutpa5](/assets/images/stupafront.png)
 ![sutpa6](/assets/images/stupatop.png)
 ![sutpa4](/assets/images/stupa2.png)
+![sutpa5](/assets/images/stupafront.png)
