@@ -1,20 +1,22 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head>
-    
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
 
-    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+<head>
 
-    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <link rel="apple-touch-icon" href="{{ site.icon }}">
+	<title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
 
-    <link rel="stylesheet" href="{{ '/assets/css/leaflet.css' | absolute_url }}">
-	  
-    <style>
+	{% if site.description %}
+	<meta name="description" content="{{ site.description }}">{% endif %}
+
+	<link rel="apple-touch-icon" href="{{ site.icon }}">
+
+	<link rel="stylesheet" href="{{ '/assets/css/leaflet.css' | absolute_url }}">
+
+	<style>
 		body {
 			padding: 0;
 			margin: 0;
@@ -25,6 +27,7 @@
 			height: 100%;
 			width: 100%;
 		}
+
 		#image-map {
 			width: 100%;
 			height: 100%;
@@ -34,7 +37,7 @@
 			background-color: rgba(255, 0, 0, 0.0);
 			outline: 0;
 		}
-    </style>
+	</style>
 </head>
 
 <body>
@@ -46,19 +49,19 @@
 		// See also: http://kempe.net/blog/2014/06/14/leaflet-pan-zoom-image.html
 		var factor = 1;
 		{% if page.factor %}
-		   factor = {{ page.factor }};
+		factor = {{ page.factor }};
 		{% endif %}
-		
+
 
 		// create the slippy map
 		var map = L.map('image-map', {
 			minZoom: 1,
-			maxZoom: 4,
+			maxZoom: 5,
 			center: [0, 0],
 			zoom: 1,
 			crs: L.CRS.Simple
 		});
-		
+
 
 
 		//
@@ -66,12 +69,12 @@
 		function getMeta(url) {
 			const img = new Image();
 			img.addEventListener("load", function () {
-				var w = this.naturalWidth * factor;
-				var h = this.naturalHeight * factor;
+				var w = this.naturalWidth;
+				var h = this.naturalHeight;
 				var southWest = map.unproject([0, h], map.getMaxZoom() - 1);
 				var northEast = map.unproject([w, 0], map.getMaxZoom() - 1);
 				var bounds = new L.LatLngBounds(southWest, northEast);
-                                
+
 
 				// add the image overlay, 
 				// so that it covers the entire map
@@ -89,4 +92,3 @@
 	</script>
 
 </body>
-

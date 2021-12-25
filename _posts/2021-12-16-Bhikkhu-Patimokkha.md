@@ -5,7 +5,7 @@ author: "Cittadhammo Bhikkhu"
 categories: Diagrams
 ---
 
-[![Bhikkhu Pāṭimokkha](/assets/images/bhikkhu-patimokkha.svg)](/assets/maps/bhikkhu-patimokkha2.html)
+[![Bhikkhu Pāṭimokkha](/assets/images/bhikkhu-patimokkha.svg)](/assets/maps/bhikkhu-patimokkha.html)
 
 
 ### Primary Sources
@@ -17,6 +17,6 @@ categories: Diagrams
 ### Secondary Sources
 - [The Buddhist Monastic Code I](https://www.dhammatalks.org/vinaya/bmc/Section0001.html) by Ajahn Thanissaro
 - [Sutta Central - Basket of Monastic Law](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) by Bhikkhu Brahmali
-- [THE BHIKKHU PĀTIMOKKHA A WORD BY WORD TRANSLATION](https://www.bps.lk/olib/bp/bp627s_Nyanatusita_Bhikkhu-Patimokkha-Translation.pdf) by Bhikkhu Ñāṇatusita
+- [The Bhikkhu Pātimokkha A Word By Word Translation](https://www.bps.lk/olib/bp/bp627s_Nyanatusita_Bhikkhu-Patimokkha-Translation.pdf) by Bhikkhu Ñāṇatusita
 
 
