@@ -47,11 +47,6 @@
 	<script>
 		// Using leaflet.js to pan and zoom a big image.
 		// See also: http://kempe.net/blog/2014/06/14/leaflet-pan-zoom-image.html
-		var factor = 1;
-		{% if page.factor %}
-		factor = {{ page.factor }};
-		{% endif %}
-
 
 		// create the slippy map
 		var map = L.map('image-map', {

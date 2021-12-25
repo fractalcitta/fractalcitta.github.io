@@ -1,6 +1,6 @@
 ---
 layout: page
-title: links
+title: Links
 ---
 
 - [yatiko.c1.biz](http://www.yatiko.c1.biz/) : Old site
