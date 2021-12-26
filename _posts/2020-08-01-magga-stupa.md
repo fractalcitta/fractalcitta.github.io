@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magga-Vibhaṅga Stupa
+title: Magga Stupa
 athor: Lancelot Moreau
 categories: Art
 ---
