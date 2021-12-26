@@ -17,6 +17,10 @@ GitHub Page uses Jekyll to build this site :
 - [Doc with addons](https://jekyllcodex.org/)
 - [Image gallery](https://dmnfarrell.github.io/software/jekyll-galleries)
 - [Another simple way with flex](https://www.aravindiyer.com/posts/equal-height-image-gallery)
+- [Minify SVG](https://jakearchibald.github.io/svgomg/)
+- Observablehq
+- CodePen
+- [Overleaf](https://fr.overleaf.com/): Create LaTex document online
 
 
 
