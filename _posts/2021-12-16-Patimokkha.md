@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bhikkhu Pāṭimokkha 152"
+title: "Bhikkhu Pāṭimokkha Sphere"
 author: "Cittadhammo Bhikkhu"
 categories: Diagrams
 ---

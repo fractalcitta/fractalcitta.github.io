@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bhikkhu Pāṭimokkha"
+title: "Bhikkhu Pāṭimokkha Dendrogram"
 author: "Cittadhammo Bhikkhu"
 categories: Diagrams
 ---
