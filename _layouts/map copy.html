@@ -42,54 +42,50 @@
 
 <body>
 	<div id="image-map"></div>
-	<div id="svg" style="position: absolute; bottom: 0; left: 0; width: 0; height: 0;"></div>
-
 
 	<script src="{{ '/assets/js/leaflet.js' | absolute_url }}"></script>
 	<script>
 
+		const W = 100;
+
 		let map = L.map("image-map", {
 			crs: L.CRS.Simple,
-			minZoom: -4,
-			maxZoom: 1,
+			minZoom: 1,
+			maxZoom: 4,
 		});
 
-		const url =
-			"{{ page.map-url }}";
-
-		async function fetchData(url) {
-			try {
-				const response = await fetch(url);
-				const data = await response.text();
-				return data;
-			} catch (err) {
-				console.error(err);
-			}
+		function loadImage(url) {
+			return new Promise((resolve, reject) => {
+				const img = new Image();
+				img.addEventListener("load", () => resolve(img));
+				img.addEventListener("error", reject);
+				img.src = url;
+			});
 		}
 
-		fetchData(url)
-			.then((svg) => {
-				const map = document.getElementById("svg");
-				map.insertAdjacentHTML("afterbegin", svg);
-			})
-			.then(() => {
-				const svgElement = document.getElementById("svg");
-				const { width, height } = svgElement.firstChild.getBBox();
-				return { width, height };
-			})
-			.then(({ width, height }) => {
-				const img = new Image();
-				img.src = url;
+		async function getImageData(url) {
+			const img = await loadImage(url);
+			return { img, width: img.naturalWidth, height: img.naturalHeight };
+		}
 
-				const bounds = [
-					[0, 0], // padding
-					[width, height], // image dimensions
-				];
+		async function showOnMap(url) {
+			const { img, width, height } = await getImageData(url);
 
-				L.imageOverlay(img.src, bounds).addTo(map);
+			const H = W * width / height;
 
-				map.fitBounds(bounds);
-			});
+			const southWest = map.unproject([0, H], map.getMaxZoom() - 4);
+			const northEast = map.unproject([W, 0], map.getMaxZoom() - 4);
+
+			const bounds = new L.LatLngBounds(southWest, northEast);
+			L.imageOverlay(img.src, bounds).addTo(map);
+
+			map.fitBounds(bounds);
+		}
+
+		showOnMap(
+			"{{ page.map-url }}"
+		);
+
 
 	</script>
 
