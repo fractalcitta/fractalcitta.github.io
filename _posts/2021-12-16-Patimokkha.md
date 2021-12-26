@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Bhikkhu Pāṭimokkha Sphere"
+title: "Bhikkhu Pāṭimokkha 152"
 author: "Cittadhammo Bhikkhu"
 categories: Diagrams
 ---
 
-[![Bhikkhu Pāṭimokkha](/assets/images/patimok.png)](/assets/maps/patimokkha.html)
+[![Bhikkhu Pāṭimokkha]({% include img.html img="patimok.png" %})](/assets/maps/patimokkha.html)
 
-### Test
-
-{% include image.html image="patimok.png" %}
 
