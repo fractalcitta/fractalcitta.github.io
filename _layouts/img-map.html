@@ -70,8 +70,8 @@
 		async function showOnMap(url) {
 			const { img, width, height } = await getImageData(url);
 
-			const southWest = map.unproject([0, height], map.getMaxZoom() - 4);
-			const northEast = map.unproject([width, 0], map.getMaxZoom() - 4);
+			const southWest = map.unproject([0, height], map.getMaxZoom() - 1);
+			const northEast = map.unproject([width, 0], map.getMaxZoom() - 1);
 
 			const bounds = new L.LatLngBounds(southWest, northEast);
 			L.imageOverlay(img.src, bounds).addTo(map);
