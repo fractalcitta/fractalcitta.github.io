@@ -135,10 +135,10 @@ figcaption {
   }
 }
 .post-cat-home{
-    // padding-left: 1em;
-      text-decoration: none;
+  padding-left: 0.5em;
+  text-decoration: none;
   color : #00000063;
-    font-size: .875em;
+  font-size: .875em;
   // font-style: italic;
 }
 
@@ -169,33 +169,3 @@ figcaption {
 
 .no-margin-bottom {margin-bottom: 0}
 
-.close {
-  position: absolute;
-  right: 32px;
-  top: 32px;
-  width: 32px;
-  height: 32px;
-  opacity: 0.3;
-}
-.close:hover {
-  opacity: 1;
-}
-.close:before, .close:after {
-  position: absolute;
-  left: 15px;
-  content: ' ';
-  height: 33px;
-  width: 2px;
-  background-color: #333;
-}
-.close:before {
-  transform: rotate(45deg);
-}
-.close:after {
-  transform: rotate(-45deg);
-}
-
-.easy-button-container{
-  position: absolute;
-  right: 0%;
-}
