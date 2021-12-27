@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bhikkhu Pāṭimokkha I"
-author: "Cittadhammo Bhikkhu"
+author: "Sāmaṇera Yatiko"
 categories: Diagrams
 ---
 
