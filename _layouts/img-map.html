@@ -44,6 +44,22 @@
 			background-color: rgba(255, 0, 0, 0.0);
 			outline: 0;
 		}
+
+		.easy-button-container {
+			/* width: calc(100vw - 25px);
+			display: flex;
+			justify-content: flex-end; */
+			position: absolute;
+			left: calc(100vw - 60px);
+
+
+			/* border: none !important; */
+		}
+
+		/* 
+		.easy-button-button {
+			border: 2px solid rgba(0, 0, 0, 0.2) !important;
+		} */
 	</style>
 </head>
 
@@ -88,7 +104,7 @@
 
 			map.fitBounds(bounds);
 
-			L.easyButton('<span style="font-size: 1.8em;">&times;</span>',
+			L.easyButton('<span style="font-size: 1.8em;" id="close">&times;</span>',
 				function () {
 					history.back()
 				}).addTo(map);
