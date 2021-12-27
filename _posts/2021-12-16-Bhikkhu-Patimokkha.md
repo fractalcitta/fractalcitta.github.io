@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Bhikkhu Pāṭimokkha Dendrogram"
+title: "Bhikkhu Pāṭimokkha II"
 author: "Cittadhammo Bhikkhu"
 categories: Diagrams
 ---
 
 [![Bhikkhu Pāṭimokkha](/assets/images/bhikkhu-patimokkha.svg)](/assets/maps/bhikkhu-patimokkha.html)
+
 
 
 ### Primary Sources
