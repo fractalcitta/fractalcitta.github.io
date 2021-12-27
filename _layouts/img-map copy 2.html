@@ -14,10 +14,7 @@
 
 	<link rel="apple-touch-icon" href="{{ site.icon }}">
 
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css"">
-	<link rel=" stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
-	<link rel="stylesheet" href="{{ '/assets/css/leaflet-sidebar.css' | absolute_url }}">
-
+	<link rel="stylesheet" href="{{ '/assets/css/leaflet.css' | absolute_url }}">
 
 	<style>
 		body {
@@ -46,10 +43,7 @@
 <body>
 	<div id="image-map"></div>
 
-	<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
-	<script src="{{ '/assets/js/leaflet-sidebar.js' | absolute_url }}"></script>
-
+	<script src="{{ '/assets/js/leaflet.js' | absolute_url }}"></script>
 	<script>
 
 
@@ -83,21 +77,53 @@
 			L.imageOverlay(img.src, bounds).addTo(map);
 
 			map.fitBounds(bounds);
-
-			ctlSidebar = L.control.sidebar('side-bar').addTo(map);
-
-			ctlEasybutton = L.easyButton('<span style="font-size: 1.5em;">&times;</span>',
-				function () {
-					history.back()
-				}).setPosition('bottomright').addTo(map);
-
 		}
 
 		showOnMap(
 			"{{ page.map-url }}"
 		);
 
+		// create custom button
+		const customControl = L.Control.extend({
+			// button position
+			options: {
+				position: "topright",
+			},
 
+			// method
+			onAdd: function (map) {
+				// create button
+				const div = L.DomUtil.create("div");
+				const btn = div.DomUtil.create("a")
+				btn.title = "Exit";
+				btn.textContent = "x";
+				btn.className = "leaflet-control-zoom leaflet-bar";
+				// btn.setAttribute(
+				// 	"style",
+				// 	"background-color: transparent; width: 26px; height: 26px; border-radius: 0px;border: none; box-shadow: 0 1px 5px rgb(0 0 0 / 65%);display: flex; cursor: pointer; justify-content: center; font-size: 2rem;"
+				// );
+
+				// actions on mouseover
+				btn.onmouseover = function () {
+					// this.style.transform = "scale(1.3)";
+				};
+
+				// actions on mouseout
+				btn.onmouseout = function () {
+					// this.style.transform = "scale(1)";
+				};
+
+				// action when clik on button
+				btn.onclick = function () {
+					history.back()
+				};
+
+				return btn;
+			},
+		});
+
+		// adding new button to map controll
+		map.addControl(new customControl());
 
 
 	</script>
