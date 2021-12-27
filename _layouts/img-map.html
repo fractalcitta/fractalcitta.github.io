@@ -14,9 +14,13 @@
 
 	<link rel="apple-touch-icon" href="{{ site.icon }}">
 
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css"">
-	<link rel=" stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
-	<link rel="stylesheet" href="{{ '/assets/css/leaflet-sidebar.css' | absolute_url }}">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+	<!--[if lte IE 8]><link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.2/leaflet.ie.css" /><![endif]-->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
+	<!-- <link rel="stylesheet" href="{{ '/assets/css/leaflet-sidebar.css' | absolute_url }}"> -->
+
+	<!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
+
 
 
 	<style>
@@ -48,7 +52,7 @@
 
 	<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
-	<script src="{{ '/assets/js/leaflet-sidebar.js' | absolute_url }}"></script>
+	<!-- <script src="{{ '/assets/js/leaflet-sidebar.js' | absolute_url }}"></script> -->
 
 	<script>
 
@@ -84,12 +88,19 @@
 
 			map.fitBounds(bounds);
 
-			ctlSidebar = L.control.sidebar('side-bar').addTo(map);
-
-			ctlEasybutton = L.easyButton('<span style="font-size: 1.5em;">&times;</span>',
+			L.easyButton('<span style="font-size: 1.8em;">&times;</span>',
 				function () {
 					history.back()
-				}).setPosition('bottomright').addTo(map);
+				}).addTo(map);
+
+			// $('[.leaflet-bar][.easy-button-container][.leaflet-control]').insertAfter('[.leaflet-top][.leaflet-right]')
+
+			// ctlSidebar = L.control.sidebar('side-bar').addTo(map);
+
+			// ctlEasybutton = L.easyButton('<span style="font-size: 1.5em;">&times;</span>',
+			// 	function () {
+			// 		history.back()
+			// 	}).setPosition('bottomright').addTo(map);
 
 		}
 
