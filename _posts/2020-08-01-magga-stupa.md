@@ -19,3 +19,4 @@ This design is based on the [Magga-Vibhaṅga Sutta](https://www.dhammatalks.org
 ### Ressources
 
 - [Some Aspects of Stūpa Symbolism](https://architexturez.net/doc/az-cf-171197) by Anagarika Brahmachari Govinda
+- [Cambodian Stupa](http://www.simparch.org/cambodian-stupa/)
