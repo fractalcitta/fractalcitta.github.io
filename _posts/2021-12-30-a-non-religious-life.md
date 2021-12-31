@@ -1,0 +1,11 @@
+---
+layout: post
+title: A Non-Religious Life
+author: Cittadhammo Bhikkhu
+categories: Essays
+---
+
+Voir les gens qui errent sans but, fasciné par les idées, fasciné par les histoires, fasciné par la vie, « Bewildered », perplexe, confus, ahuri, dérouté, tels sont les adjectifs que le bouddha utilise pour décrire l’attitude et l’émotion mental que les gens ont lorsqu’ils font face a la souffrance, à l’ absence de sens. Ceci est tellement clair pour moi que ce monde tourne sans fin, sans but et dès lors une vie non religieuse semble si vaine. Il y a donc cette question : Pourquoi ? Qu’est-ce qui maintient l’esprit prisonnier de Mara, prisonnier du Samsara ? Car il semble que tu aies une vue juste, tu vois, tu comprends, tu vois le vide, mais tu ne saute pas dedans. Une peur retient le cœur, une peur retient l’esprit. Il faut alors un déclic, une expérience transcendante, pour permettre au cœur de se détacher du connu… C’est alors seulement dans les lieux qui amènent au mystère, qui permettent de connecter la sagesse et la conscience, dans ces lieux seulement, accompagnés de ceux qui ont déjà traversé, que l’esprit trouvera la force et trouvera la foi.
+
+
+Comme des niveaux d’illusion successifs pour cacher et justifier ses propres peurs, l’esprit crée une histoire pour ne pas plonger. “Il y a ma mère”, “Il y a ces gens qui attendent quelque chose de moi”, “Je n’ai pas le choix”, “Je dois rester avec eux” ; tout ceci est illusion, illusion malsaine et ignorante d’un esprit qui a peur de l’affranchissement, de la libération sans attache aucune. Car même nos mères veulent le meilleur pour nous, elles veulent que l’on suive la voie qui nous appelle. Elles sont si sages qu'elles savent que le sacrifice de la séparation vaut mille fois une vie détournée de son propre Chemin. Dès lors, c'est notre propre esprit qui se crispe et invente tant d’illusions et de justifications, comme si Mara jouait le cinéma devant nos yeux. Sans sagesse, sans recul, sans calme, nous prenons ce cinéma pour la vérité et nous nous accablons du mal qu’elle nous fait. Mais tout ceci n’est que fabrications, dogmes, conditionnements, attachements, mœurs, rituels, habitudes, devoirs, culture, tradition. Pour celui qui veut se libérer tellement, il doit tout abandonner. Alors il deviendra le phare de ce monde et son amour sera enfin pur, sans souillure aucune.
