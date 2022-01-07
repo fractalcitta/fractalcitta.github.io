@@ -1,0 +1,10 @@
+---
+layout: post
+title: Dhamma Sit
+athor: Cittadhammo Bhikkhu
+categories: Woodworking
+---
+
+![bench3](/assets/images/bench2.png){: .no-margin-bottom}
+{% include image-gallery-nogap.html folder="/assets/images/bench" %}
+
