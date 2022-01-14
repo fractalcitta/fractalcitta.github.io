@@ -7,6 +7,9 @@ categories: Diagrams
 
 [![Sutta Pitaka](/assets/images/suttapitaka.svg)](/assets/maps/suttapitaka.html)
 
+### Download
+
+- [Image PNG](/assets/images/suttapitaka.png)
 
 ### Source
 
@@ -15,5 +18,5 @@ categories: Diagrams
 
 ### Need doing
 
-- Ajust spaces on leaves 
+- Ajust spaces on leaves
 - Cut the pali words for readabilty : Vagga, Samutta, etc.
