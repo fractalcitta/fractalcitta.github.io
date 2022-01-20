@@ -3,29 +3,30 @@ layout: default
 ---
 
 {% if site.data.menu %}
-  {% include menu.html %}
+{% include menu.html %}
 {% else %}
-  {% include back-link.html %}
+{% include back-link.html %}
 {% endif %}
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article"
+  aria-label="Content">
 
   {% if page.title != "" %}
-    <h1 class="post-title divided p-name" itemprop="name headline">
-      {{ page.title }}
-    </h1>
+  <h1 class="post-title divided p-name" itemprop="name headline">
+    {{ page.title }}
+  </h1>
   {% endif %}
-  
+
   <div class="post-categories">
-  {% if post %}
+    {% if post %}
     {% assign categories = post.categories %}
-  {% else %}
+    {% else %}
     {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <h4 ><a class="cat-link" href="{{site.baseurl}}/categories.html#{{category|slugize}}">{{category}}</a></h4>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
+    {% endif %}
+    {% for category in categories %}
+    <h4><a class="cat-link" href="{{site.baseurl}}/categories.html#{{category|slugize}}">{{category}}</a></h4>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
   </div>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -34,13 +35,42 @@ layout: default
 
   <div class="post-meta">
     {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
+    <div itemprop="author">{{ page.author }}</div>
     {% endif %}
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{
+      page.date | date: "%B %-d, %Y" }}</time>
   </div>
 
   {% if site.disqus.shortname %}
-    {% include disqus-comments.html %}
+  {% include disqus-comments.html %}
   {% endif %}
 
 </article>
+
+<div class="post-nav">
+  <div>
+    {% if page.previous.url %}
+    <a href="{{page.previous.url}}">
+      <span class="unsighted">Previous post:</span>
+      <span aria-hidden="true">&laquo;</span>
+      {{page.previous.title}}
+    </a>
+    {% endif %}
+  </div>
+  <div class="post-nav-next">
+    {% if page.next.url %}
+    {% assign next_post_title_array = page.next.title | split: " " %}
+    {% assign next_post_cape_length = next_post_title_array | size | minus: 1 %}
+    {% assign next_post_cape = page.next.title | truncatewords: next_post_cape_length, "" %}
+    {% assign next_post_spit = next_post_title_array | last %}
+    <a href="{{page.next.url}}">
+      <span class="unsighted">Next post:</span>
+      {{next_post_cape}}
+      <span style="white-space: nowrap;">
+        {{next_post_spit}}
+        <span aria-hidden="true">&raquo;</span>
+      </span>
+    </a>
+    {% endif %}
+  </div>
+</div>

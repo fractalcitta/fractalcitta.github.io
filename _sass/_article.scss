@@ -133,3 +133,65 @@ a.cat-link:hover {
 }
 
 p .image-gallery {margin:0;}
+
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 1em;
+    text-align: center;
+
+    div {
+      flex: 1 1 0;
+      
+      &:first-child {
+        padding-right: 0.5em;
+      }
+      
+      &:last-child {
+        padding-left: 0.5em;
+        //text-align: right;
+      }
+    }
+
+    margin-top: 4rem;
+    font-size: .75em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    > * {
+      flex-grow: 1;
+      flex-basis: 0;
+      padding: 1em 0;
+    }
+    // &:hover,
+    // //&:focus-within 
+    // {
+    a {
+        opacity: .6;
+    //   }
+     }
+    a {
+      text-decoration: none;
+      //text-transform: uppercase;
+      transition: opacity .125s ease-in-out;
+      &:hover,
+      &:focus {
+        opacity: 1;
+      }
+    }
+}
+
+.unsighted {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
