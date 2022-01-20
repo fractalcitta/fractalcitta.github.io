@@ -146,11 +146,15 @@ p .image-gallery {margin:0;}
       
       &:first-child {
         padding-right: 0.5em;
+        margin-left: 1em;
+                text-align: left;
+
       }
       
       &:last-child {
+        margin-right: 1em;
         padding-left: 0.5em;
-        //text-align: right;
+        text-align: right;
       }
     }
 
