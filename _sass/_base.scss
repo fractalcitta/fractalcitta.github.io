@@ -212,10 +212,16 @@ figcaption {
     // background-image: url("/assets/images/gl-folder/gl (1).png"); /* The image used */
     // background-position: 50% 0;
     
-    // background-image: url("/assets/images/gl-folder/gl (1).png"),url("/assets/images/gl-folder/gl (3).png"); /* The image used */
-    // background-position: 50% 0, 50% 110%;
-
-        background-image: url("/assets/images/gl-folder/gl (1).png"),url("/assets/images/gl-folder/gl (3).png"),url("/assets/images/gl-folder/gl (4).png"),url("/assets/images/gl-folder/gl (5).png"),url("/assets/images/gl-folder/gl (6).png"); /* The image used */
-    background-position: 50% 0, 50% 110%, 50% 170%, 50% 230%, 50% 290%, 50% 350%;
+    background-image: url("/assets/images/gl-folder/gl (1).png"),url("/assets/images/gl-folder/gl (3).png"); /* The image used */
+    background-position: 50% 0, 50% 110%;
+@media screen and (max-width: 600px) {
+    height: 160%;
+    background-position: 50% 0, 50% 110%;
 }
+
+    //     background-image: url("/assets/images/gl-folder/gl (1).png"),url("/assets/images/gl-folder/gl (3).png"),url("/assets/images/gl-folder/gl (4).png"),url("/assets/images/gl-folder/gl (5).png"),url("/assets/images/gl-folder/gl (6).png"); /* The image used */
+    // background-position: 50% 0, 50% 110%, 50% 170%, 50% 230%, 50% 290%, 50% 350%;
+}
+
+
 
