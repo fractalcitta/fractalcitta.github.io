@@ -135,6 +135,8 @@ a.cat-link:hover {
 p .image-gallery {margin:0;}
 
 .post-nav {
+  margin: 2em auto;
+    max-width: 60rem;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
