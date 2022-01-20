@@ -91,19 +91,43 @@ a.cat-link:hover {
 //    font-size: 0.8em;      /* Adjust this value so that it appears what size you want. */
 //}
 
-.post-content  { 
-  ul {
-  list-style: none;
-  li::before {
-      content: "•";
-    display: inline-block; width: 1em;
-    margin-left: -1em;
-    font-size: 0.7em}
-  }
-}
 
-// .post-content  > ul > li::before {content: "•";
+
+
+// .post .image-gallery ul{
+//   margin: 0;
+//   width: 100%;
+// }
+
+
+// .post-content > ul > li::before {content: "•";
 //   display: inline-block; width: 1em;
 //   margin-left: -1em;
 
 // font-size: 0.7em}
+
+.post-content  { 
+  // :not(.image-gallery) {
+    ul:not(.image-gallery) {
+    list-style: none;
+    li::before {
+        content: "•";
+      display: inline-block; width: 1em;
+      margin-left: -1em;
+      font-size: 0.7em}
+    }
+  // }
+}
+
+
+.post-content li {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+
+.post-content dl,
+.post-content ul,
+.post-content ol {
+  margin: 0;
+}
