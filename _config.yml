@@ -16,12 +16,12 @@
 title: Fractal Citta
 email: fractalcitta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  (Please do not share)
+  Please do not share
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fractalcitta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: 
-github_username:  
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown

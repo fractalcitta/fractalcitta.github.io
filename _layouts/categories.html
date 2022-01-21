@@ -4,13 +4,16 @@ permalink: /categories/
 title: Categories
 ---
 {% include menu.html %}
+<div class="hero-image2">
 
 <main class="home" id="main" role="main" aria-label="Content">
-  
+
+
+
   <h1 class="content-title divided">
       {{ page.title }}
   </h1>
-  
+
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
@@ -22,6 +25,7 @@ title: Categories
         {% include post-list-item-cat.html %}
       {% endfor %}
     </ul>
-{% endfor %}  
+{% endfor %}
 
 </main>
+</div>
