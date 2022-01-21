@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+author: "Cittadhammo Bhikkhu"
 ---
 
 This is a personal website to store some of my creations. Please do not share with other people for the moment.
