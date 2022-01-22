@@ -57,13 +57,14 @@ git push origin master
     bundle install
     bundle exec jekyll serve
 
-### Coding
+### Coding, etc...
 
 
 - [aravindiyer.com](https://www.aravindiyer.com/posts/equal-height-image-gallery) : Flex layouts
 - [jakearchibald.github.io](https://jakearchibald.github.io/svgomg/) : Minifing SVGs
 - [Overleaf.com](https://fr.overleaf.com/): Create LaTex document online
-- [observablehq.com](https://observablehq.com/) : Code JS online
+- [observablehq.com](https://observablehq.com/) : Code JS and D3 online
+- [itools.com](http://itools.com/tool/google-translate-web-page-translator) : Translate a website
 
 
 
