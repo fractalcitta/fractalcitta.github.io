@@ -5,7 +5,7 @@ author: "Cittadhammo Bhikkhu"
 categories: Diagrams
 ---
 
-[![Sutta Pitaka](/assets/images/suttapitaka.svg)](/assets/maps/suttapitaka.html)
+[![Sutta Pitaka](/assets/images/suttapitaka3.svg)](/assets/maps/suttapitaka.html)
 
 ### Download
 
