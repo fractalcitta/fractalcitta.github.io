@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="4NobleTruths.svg">
+   sodipodi:docname="4NobleTruthsFR.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -378,10 +378,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.38706642"
-     inkscape:cx="1351.9591"
-     inkscape:cy="1769.5178"
+     inkscape:cx="1455.3005"
+     inkscape:cy="2286.225"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1174"
+     inkscape:current-layer="layer1"
      showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -428,7 +428,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -462,7 +462,7 @@
              style="font-size:17.18017006px;line-height:0.5;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              ry="0" /></flowRegion><flowPara
            id="flowPara1240"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Prevent</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Prevenir</flowPara></flowRoot>      <flowRoot
          transform="matrix(0,-0.40984702,0.41151508,0,-652.89472,392.51502)"
          style="font-style:normal;font-weight:normal;font-size:17.18017006px;line-height:0.5;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot1250"
@@ -477,7 +477,7 @@
              width="197.51628"
              id="rect1244" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="flowPara1248">Abandon</flowPara></flowRoot>      <flowRoot
+           id="flowPara1248">Abandonner</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot1258"
          style="font-style:normal;font-weight:normal;font-size:17.18017006px;line-height:0.5;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -492,7 +492,7 @@
              style="font-size:17.18017006px;line-height:0.5;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              ry="0" /></flowRegion><flowPara
            id="flowPara1256"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Maintain</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Maintenir</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.3620833,0,0,0.36290688,-74.804501,-839.41373)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.5;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.275866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot1266"
@@ -507,7 +507,7 @@
              width="197.51628"
              id="rect1260" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.46387863px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.275866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="flowPara1264">Develop</flowPara></flowRoot>    </g>
+           id="flowPara1264">Developper</flowPara></flowRoot>    </g>
     <path
        style="fill:url(#radialGradient2746);fill-opacity:1.0;stroke:#000000;stroke-width:0.788;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 333.42922,-295.28013 86.46431,84.64507 v -84.64507 z"
@@ -550,7 +550,7 @@
            width="355.56839"
            id="rect2708" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
-         id="flowPara2712">Origin</flowPara></flowRoot>    <flowRoot
+         id="flowPara2712">Origine</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6046"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -566,9 +566,9 @@
          id="flowPara6052"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.59618378px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">4 </flowPara><flowPara
          id="flowPara6054"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.59618378px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Noble</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.59618378px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Nobles</flowPara><flowPara
          id="flowPara6056"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.59618378px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Truths</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.59618378px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Vérités</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.76105309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21902633"
        x="398.86917"
@@ -593,7 +593,7 @@
            y="2132.6174"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara6056-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Suffering</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Souffrance</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.16749093,-0.16749093,0.16749093,0.16749093,-184.06574,-346.94211)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot2738"
@@ -621,7 +621,7 @@
            width="355.56839"
            id="rect2756" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
-         id="flowPara2760">8-Fold Path </flowPara></flowRoot>    <circle
+         id="flowPara2760">Octuple Sentier</flowPara></flowRoot>    <circle
        style="opacity:1;fill:url(#radialGradient2832);fill-opacity:1.0;fill-rule:nonzero;stroke:url(#radialGradient7102);stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2824"
        cx="310.08179"
@@ -886,9 +886,9 @@
              width="230.58054"
              id="rect1094" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.20000076px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.21241058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="flowPara1098">Right</flowPara><flowPara
+           id="flowPara1098">Parole</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.20000076px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.21241058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="flowPara1100">Speech</flowPara></flowRoot>      <flowRoot
+           id="flowPara1100">Juste</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.40984702,0,0,0.41151508,-128.13223,-1018.7998)"
          style="font-style:normal;font-weight:normal;font-size:17.18017006px;line-height:0.5;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot1112"
@@ -903,7 +903,7 @@
              width="197.51628"
              id="rect1104" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="flowPara1110">No Lying</flowPara></flowRoot>      <flowRoot
+           id="flowPara1110">Pas Mentir</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot1134"
          style="font-style:normal;font-weight:normal;font-size:17.18017006px;line-height:0.5;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -918,7 +918,7 @@
              style="font-size:17.18017006px;line-height:0.5;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              ry="0" /></flowRegion><flowPara
            id="flowPara1132"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Not Abusive</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pas abusif</flowPara></flowRoot>      <flowRoot
          transform="matrix(0,0.40984702,-0.41151508,0,1284.2078,-493.01192)"
          style="font-style:normal;font-weight:normal;font-size:17.18017006px;line-height:0.5;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot1142"
@@ -933,7 +933,7 @@
              width="197.51628"
              id="rect1136" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.18017006px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.24349847;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="flowPara1140">Not Divisive</flowPara></flowRoot>      <flowRoot
+           id="flowPara1140">Pas Divisif</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot1150"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.5;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.275866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -948,7 +948,7 @@
              style="line-height:0.5;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.275866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              ry="0" /></flowRegion><flowPara
            id="flowPara1148"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.46387773px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.275866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">No Idle Chatter</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.46387863px;line-height:1.5;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.275866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pas Bavardage</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot1340"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.5;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21241058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -961,9 +961,9 @@
              x="958.49182"
              y="2256.5161"
              style="line-height:0.5;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.21241058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-           id="flowPara1336"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.20000076px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.21241058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Right</flowPara><flowPara
            id="flowPara1338"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.20000076px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.21241058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Effort</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.20000076px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.21241058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Effort</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.20000076px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.21241058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara1363">Juste</flowPara></flowRoot>    </g>
   </g>
 </svg>
