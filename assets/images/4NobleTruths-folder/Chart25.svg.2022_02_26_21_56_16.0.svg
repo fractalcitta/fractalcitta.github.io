@@ -11828,14 +11828,14 @@
        inkscape:groupmode="layer"
        id="layer22"
        inkscape:label="note"
-       style="display:inline">
+       style="display:none">
       <text
          xml:space="preserve"
          transform="matrix(0.262286,0.03479071,-0.03479071,0.262286,194.17863,49.803708)"
          id="text80829"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831);fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="1034.4668"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan495995">3Roots</tspan></text>
       <text
          xml:space="preserve"
@@ -11843,7 +11843,7 @@
          id="text80829-0"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="1034.4668"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan495997">Greed</tspan></text>
       <text
          xml:space="preserve"
@@ -11851,7 +11851,7 @@
          id="text80829-02"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831-5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="1034.4668"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan495999">Hatread</tspan></text>
       <text
          xml:space="preserve"
@@ -11859,7 +11859,7 @@
          id="text80829-4"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="1034.4668"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496001">Delusion</tspan></text>
       <text
          xml:space="preserve"
@@ -11869,25 +11869,25 @@
          x="0"
          y="0"><tspan
            x="1106.577"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496005"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496003">3 Pillars (Base of Mertis)
 </tspan></tspan><tspan
            x="1183.1526"
-           y="2497.777"
+           y="2497.7771"
            id="tspan496009"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496007">Generosity
 </tspan></tspan><tspan
            x="1194.025"
-           y="2531.1105"
+           y="2531.1106"
            id="tspan496013"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496011">Morality
 </tspan></tspan><tspan
            x="1104.741"
-           y="2564.444"
+           y="2564.4441"
            id="tspan496017"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496015">Meditation (cultivation)</tspan></tspan></text>
@@ -11899,25 +11899,25 @@
          x="0"
          y="0"><tspan
            x="1194.3635"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496021"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496019">3 Refuges
 </tspan></tspan><tspan
            x="1205.0211"
-           y="2497.777"
+           y="2497.7771"
            id="tspan496025"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496023">Buddha
 </tspan></tspan><tspan
-           x="1200.2685"
-           y="2531.1105"
+           x="1200.2686"
+           y="2531.1106"
            id="tspan496029"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496027">Dhamma
 </tspan></tspan><tspan
            x="1208.4391"
-           y="2564.444"
+           y="2564.4441"
            id="tspan496033"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496031">Sangha</tspan></tspan></text>
@@ -11929,31 +11929,31 @@
          x="0"
          y="0"><tspan
            x="1224.2665"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496037"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496035">4 Postures
 </tspan></tspan><tspan
            x="1236.0569"
-           y="2497.777"
+           y="2497.7771"
            id="tspan496041"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496039">Walking
 </tspan></tspan><tspan
            x="1232.691"
-           y="2531.1105"
+           y="2531.1106"
            id="tspan496045"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496043">Standing
 </tspan></tspan><tspan
            x="1241.6428"
-           y="2564.444"
+           y="2564.4441"
            id="tspan496049"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496047">Sitting
 </tspan></tspan><tspan
            x="1218.1012"
-           y="2597.7775"
+           y="2597.7776"
            id="tspan496053"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496051">Lying down</tspan></tspan></text>
@@ -11965,7 +11965,7 @@
          x="0"
          y="0"><tspan
            x="1243.8369"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496057"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496055">9 Jhana</tspan></tspan></text>
@@ -11977,199 +11977,199 @@
          x="0"
          y="0"><tspan
            x="1261.8434"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496061"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496059">32 Patrs
 </tspan></tspan><tspan
            x="1248.4644"
-           y="2497.777"
+           y="2497.7771"
            id="tspan496065"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496063">head hairs
 </tspan></tspan><tspan
            x="1249.6168"
-           y="2531.1105"
+           y="2531.1106"
            id="tspan496069"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496067">body hairs
 </tspan></tspan><tspan
            x="1278.9397"
-           y="2564.444"
+           y="2564.4441"
            id="tspan496073"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496071">nails
 </tspan></tspan><tspan
            x="1273.0739"
-           y="2597.7775"
+           y="2597.7776"
            id="tspan496077"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496075">teeth
 </tspan></tspan><tspan
            x="1283.6924"
-           y="2631.111"
+           y="2631.1111"
            id="tspan496081"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496079">skin
 </tspan></tspan><tspan
-           x="1276.9085"
-           y="2664.4445"
+           x="1276.9084"
+           y="2664.4446"
            id="tspan496085"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496083">flesh
 </tspan></tspan><tspan
            x="1260.04"
-           y="2697.778"
+           y="2697.7781"
            id="tspan496089"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496087">tendons
 </tspan></tspan><tspan
            x="1275.7561"
-           y="2731.1115"
+           y="2731.1116"
            id="tspan496093"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496091">bones
 </tspan></tspan><tspan
            x="1234.2522"
-           y="2764.445"
+           y="2764.4451"
            id="tspan496097"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496095">bone marrow
 </tspan></tspan><tspan
            x="1264.7145"
-           y="2797.7785"
+           y="2797.7786"
            id="tspan496101"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496099">kidneys
 </tspan></tspan><tspan
            x="1273.8486"
-           y="2831.112"
+           y="2831.1121"
            id="tspan496105"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496103">heart
 </tspan></tspan><tspan
            x="1278.3278"
-           y="2864.4455"
+           y="2864.4456"
            id="tspan496109"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496107">liver
 </tspan></tspan><tspan
            x="1269.3759"
-           y="2897.779"
+           y="2897.7791"
            id="tspan496113"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496111">pleura
 </tspan></tspan><tspan
-           x="1270.8863"
+           x="1270.8864"
            y="2931.1125"
            id="tspan496117"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496115">spleen
 </tspan></tspan><tspan
-           x="1274.8642"
-           y="2964.4459"
+           x="1274.8643"
+           y="2964.4458"
            id="tspan496121"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496119">lungs
 </tspan></tspan><tspan
            x="1214.7144"
-           y="2997.7794"
+           y="2997.7793"
            id="tspan496125"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496123">large intestines
 </tspan></tspan><tspan
            x="1214.3759"
-           y="3031.1129"
+           y="3031.1128"
            id="tspan496129"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496127">small intestines
 </tspan></tspan><tspan
            x="1258.9202"
-           y="3064.4464"
+           y="3064.4463"
            id="tspan496133"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496131">stomach
 </tspan></tspan><tspan
            x="1277.8134"
-           y="3097.7799"
+           y="3097.7798"
            id="tspan496137"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496135">feces
 </tspan></tspan><tspan
            x="1277.2926"
-           y="3131.1134"
+           y="3131.1133"
            id="tspan496141"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496139">brain
 </tspan></tspan><tspan
-           x="1285.1507"
-           y="3164.4469"
+           x="1285.1508"
+           y="3164.447"
            id="tspan496145"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496143">bile
 </tspan></tspan><tspan
            x="1265.5543"
-           y="3197.7804"
+           y="3197.7805"
            id="tspan496149"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496147">phlegm
 </tspan></tspan><tspan
            x="1288.8616"
-           y="3231.1139"
+           y="3231.114"
            id="tspan496153"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496151">pus
 </tspan></tspan><tspan
            x="1274.0439"
-           y="3264.4474"
+           y="3264.4475"
            id="tspan496157"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496155">blood
 </tspan></tspan><tspan
-           x="1275.2353"
-           y="3297.7809"
+           x="1275.2354"
+           y="3297.781"
            id="tspan496161"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496159">sweat
 </tspan></tspan><tspan
            x="1288.9918"
-           y="3331.1144"
+           y="3331.1145"
            id="tspan496165"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496163">fat
 </tspan></tspan><tspan
            x="1274.8577"
-           y="3364.4479"
+           y="3364.448"
            id="tspan496169"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496167">Tears
 </tspan></tspan><tspan
            x="1266.9606"
-           y="3397.7814"
+           y="3397.7815"
            id="tspan496173"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496171">Grease
 </tspan></tspan><tspan
            x="1272.6832"
-           y="3431.1149"
+           y="3431.115"
            id="tspan496177"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496175">Saliva
 </tspan></tspan><tspan
            x="1268.1715"
-           y="3464.4484"
+           y="3464.4485"
            id="tspan496181"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496179">Mucus
 </tspan></tspan><tspan
            x="1221.3615"
-           y="3497.7819"
+           y="3497.782"
            id="tspan496185"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496183">Oil of the join
 </tspan></tspan><tspan
            x="1271.6611"
-           y="3531.1154"
+           y="3531.1155"
            id="tspan496189"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496187">Urine</tspan></tspan></text>
@@ -12181,37 +12181,37 @@
          x="0"
          y="0"><tspan
            x="1207.7926"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496193"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496191">5 Precepts
 </tspan></tspan><tspan
            x="1201.1194"
-           y="2497.777"
+           y="2497.7771"
            id="tspan496197"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496195">No Killing
 </tspan></tspan><tspan
-           x="1194.9931"
-           y="2531.1105"
+           x="1194.993"
+           y="2531.1106"
            id="tspan496201"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496199">No Stealing
 </tspan></tspan><tspan
            x="1135.5659"
-           y="2564.444"
+           y="2564.4441"
            id="tspan496205"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496203">No sexual Misconduct
 </tspan></tspan><tspan
            x="1214.8173"
-           y="2597.7775"
+           y="2597.7776"
            id="tspan496209"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496207">No lying
 </tspan></tspan><tspan
            x="1182.0308"
-           y="2631.111"
+           y="2631.1111"
            id="tspan496213"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496211">No intoxicant</tspan></tspan></text>
@@ -12222,61 +12222,61 @@
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831-9-8-3-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"
          x="0"
          y="0"><tspan
-           x="1231.6734"
-           y="2464.4435"
+           x="1231.6733"
+           y="2464.4436"
            id="tspan496217"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496215">8 Precepts
 </tspan></tspan><tspan
            x="1225.3909"
-           y="2497.777"
+           y="2497.7771"
            id="tspan496221"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496219">No Killing
 </tspan></tspan><tspan
            x="1219.2646"
-           y="2531.1105"
+           y="2531.1106"
            id="tspan496225"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496223">No Stealing
 </tspan></tspan><tspan
            x="1184.4403"
-           y="2564.444"
+           y="2564.4441"
            id="tspan496229"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496227">No sexual Activty
 </tspan></tspan><tspan
-           x="1239.0888"
-           y="2597.7775"
+           x="1239.0887"
+           y="2597.7776"
            id="tspan496233"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496231">No lying
 </tspan></tspan><tspan
-           x="1206.3023"
-           y="2631.111"
+           x="1206.3022"
+           y="2631.1111"
            id="tspan496237"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496235">No intoxicant
 </tspan></tspan><tspan
            x="1166.3739"
-           y="2664.4445"
+           y="2664.4446"
            id="tspan496241"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496239">No eating after noon
 </tspan></tspan><tspan
            x="1080.0326"
-           y="2697.778"
+           y="2697.7781"
            id="tspan496245"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496243">no entertainement, beautificaioton, </tspan></tspan><tspan
-           x="1220.4234"
-           y="2731.1115"
+           x="1220.4233"
+           y="2731.1116"
            id="tspan496249"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496247">adornement
 </tspan></tspan><tspan
            x="1145.7228"
-           y="2764.445"
+           y="2764.4451"
            id="tspan496253"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496251">No Hig &amp; Luxurious Bed</tspan></tspan></text>
@@ -12288,67 +12288,67 @@
          x="0"
          y="0"><tspan
            x="1176.7189"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496257"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496255">10 courses of action
 </tspan></tspan><tspan
            x="1225.3909"
-           y="2497.777"
+           y="2497.7771"
            id="tspan496261"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496259">No Killing
 </tspan></tspan><tspan
            x="1219.2646"
-           y="2531.1105"
+           y="2531.1106"
            id="tspan496265"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496263">No Stealing
 </tspan></tspan><tspan
            x="1184.4403"
-           y="2564.444"
+           y="2564.4441"
            id="tspan496269"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496267">No sexual Activty
 </tspan></tspan><tspan
-           x="1239.0888"
-           y="2597.7775"
+           x="1239.0887"
+           y="2597.7776"
            id="tspan496273"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496271">No lying
 </tspan></tspan><tspan
            x="1181.5627"
-           y="2631.111"
+           y="2631.1111"
            id="tspan496277"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496275">No Divisive Speach
 </tspan></tspan><tspan
-           x="1190.7945"
-           y="2664.4445"
+           x="1190.7946"
+           y="2664.4446"
            id="tspan496281"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496279">No Harsh Speech
 </tspan></tspan><tspan
            x="1199.1669"
-           y="2697.778"
+           y="2697.7781"
            id="tspan496285"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496283">No Idle Chater
 </tspan></tspan><tspan
            x="1078.4962"
-           y="2731.1115"
+           y="2731.1116"
            id="tspan496289"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496287">No Longing for the wealth of other
 </tspan></tspan><tspan
-           x="1227.2138"
-           y="2764.445"
+           x="1227.2137"
+           y="2764.4451"
            id="tspan496293"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496291">Good Will
 </tspan></tspan><tspan
            x="1224.9156"
-           y="2797.7785"
+           y="2797.7786"
            id="tspan496297"><tspan
              style="text-align:center;text-anchor:middle"
              id="tspan496295">Right View</tspan></tspan></text>
@@ -12358,7 +12358,7 @@
          id="text80829-0-7"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831-6-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="1034.4668"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496299">Sensualituy</tspan></text>
       <text
          xml:space="preserve"
@@ -12366,7 +12366,7 @@
          id="text80829-02-4"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831-5-5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="1034.4668"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496301">Becoming</tspan></text>
       <text
          xml:space="preserve"
@@ -12374,7 +12374,7 @@
          id="text80829-4-3"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831-9-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="1034.4668"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496303">Ignorance</tspan></text>
       <text
          xml:space="preserve"
@@ -12382,7 +12382,7 @@
          id="text80829-4-3-4"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect80831-9-1-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="1034.4668"
-           y="2464.4435"
+           y="2464.4436"
            id="tspan496305">Wrong Views</tspan></text>
       <text
          xml:space="preserve"
@@ -12390,7 +12390,7 @@
          id="text84749"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect84751);fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="948.77148"
-           y="2366.506"
+           y="2366.5061"
            id="tspan496307">wrong views</tspan></text>
       <text
          xml:space="preserve"
@@ -12398,7 +12398,7 @@
          id="text84749-0"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect84751-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="948.77148"
-           y="2366.506"
+           y="2366.5061"
            id="tspan496309">Bodly Actions</tspan></text>
       <text
          xml:space="preserve"
@@ -12406,7 +12406,7 @@
          id="text84749-0-7"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect84751-8-4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="948.77148"
-           y="2366.506"
+           y="2366.5061"
            id="tspan496311">Verbal Actions</tspan></text>
       <text
          xml:space="preserve"
@@ -12414,7 +12414,7 @@
          id="text84749-0-8"
          style="font-size:26.6667px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC';text-align:justify;white-space:pre;shape-inside:url(#rect84751-8-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.421348;paint-order:stroke fill markers;stop-color:#000000"><tspan
            x="948.77148"
-           y="2366.506"
+           y="2366.5061"
            id="tspan496313">Mental Actions</tspan></text>
       <path
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.48072;paint-order:stroke fill markers;stop-color:#000000"
@@ -12439,7 +12439,7 @@
          style="font-style:normal;font-weight:normal;font-size:27.6133px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect116714-7-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49354"
          x="63.701172"
          y="0"><tspan
-           x="1572.1408"
+           x="1572.1407"
            y="1434.9801"
            id="tspan496321"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle;stroke-width:1.22211"
@@ -12487,7 +12487,7 @@
          style="font-style:normal;font-weight:normal;font-size:27.6133px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect116714-7-3-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49354"
          x="63.701172"
          y="0"><tspan
-           x="1612.044"
+           x="1612.0439"
            y="1434.9801"
            id="tspan496337"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle;stroke-width:1.22211"
@@ -12559,7 +12559,7 @@
          style="font-style:normal;font-weight:normal;font-size:27.6133px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect419900);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49354"
          x="63.701172"
          y="0"><tspan
-           x="1534.9074"
+           x="1534.9073"
            y="1434.9801"
            id="tspan496361"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle;stroke-width:1.22211"
@@ -12640,7 +12640,7 @@
          xml:space="preserve"
          transform="matrix(0.30420926,0,0,0.30420926,-60.823869,-722.74456)"
          id="text59356-93"
-         style="display:inline;font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect59358-49);fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect59358-49);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1633.0426"
@@ -12658,7 +12658,7 @@
            id="tspan460751"
            style="stroke-width:0.715"
            x="746.55029"
-           y="1037.0813"></tspan><tspan
+           y="1037.0813" /><tspan
            sodipodi:role="line"
            style="stroke-width:0.715"
            id="tspan460755"
@@ -12674,7 +12674,7 @@
            id="tspan482894"
            style="stroke-width:0.715"
            x="1167.1094"
-           y="710.36182"></tspan><tspan
+           y="710.36182" /><tspan
            sodipodi:role="line"
            style="stroke-width:0.715"
            id="tspan482898"
@@ -12685,7 +12685,7 @@
        inkscape:groupmode="layer"
        id="layer17"
        inkscape:label="palette"
-       style="display:inline">
+       style="display:none">
       <rect
          style="display:inline;fill:url(#linearGradient59747);fill-opacity:1;fill-rule:evenodd;stroke-width:0.499999;paint-order:stroke fill markers;stop-color:#000000"
          id="rect9257"
@@ -12845,7 +12845,7 @@
        inkscape:groupmode="layer"
        id="layer12"
        inkscape:label="corner  background"
-       style="display:inline">
+       style="display:none">
       <path
          style="fill:url(#Cessatio-back);fill-opacity:1;stroke:url(#Cessatio-back);stroke-width:2.61165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 2873.396,1427.1706 c -0.4186,-2.0307 -1.9099,-13.7717 -3.3139,-26.091 -13.5849,-119.1981 -49.8129,-250.7816 -100.3716,-364.5588 C 2716.4941,916.7625 2650.3119,812.74302 2562.8233,711.35298 2538.6568,683.34657 2471.4751,615.82039 2443.7794,591.69864 2298.1437,464.8564 2133.428,374.60039 1951.7796,322.10719 c -69.8,-20.17095 -149.4092,-35.99449 -215.1051,-42.7554 l -18.1507,-1.86793 0.013,-4.7357 c 0.01,-2.60463 0.4562,-8.42251 0.9974,-12.92862 l 0.9839,-8.19293 8.6573,0.95123 c 98.5012,10.82297 189.3417,30.41247 278.9868,60.16271 230.8558,76.61342 436.9887,217.08244 592.8825,404.01902 98.4323,118.03297 175.6124,253.09698 227.9648,398.93473 26.794,74.6402 48.8589,162.1683 61.0389,242.1326 4.9989,32.8193 9.2716,69.4132 8.2267,70.4582 -0.4485,0.4485 -6.0586,1.212 -12.4669,1.6966 -11.3543,0.8588 -11.6708,0.7871 -12.4126,-2.8111 z"
@@ -12891,7 +12891,7 @@
        inkscape:groupmode="layer"
        id="layer25"
        inkscape:label="square"
-       style="display:inline">
+       style="display:none">
       <path
          d="m 419.48552,-135.43505 h 549.66649 v 109.918998 m 26.69234,984.901312 -135.03321,-0.14563 m 0,0 H 421.11402"
          style="fill:none;stroke:url(#Path_1);stroke-width:1.03051;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000"
@@ -12913,7 +12913,7 @@
          id="path60487" />
       <path
          id="path60489"
-         style="fill:none;stroke:url(#Suffering_2);stroke-width:1.531;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:url(#Suffering_2);stroke-width:1.531;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000"
          d="m -167.02739,-177.89228 h 114.294259 m 0,0 H 420.15107 M -167.02739,-63.956871 V -177.89228 m 0,113.935409 V 1001.4828 h 589.81024"
          sodipodi:nodetypes="cccccccc" />
       <path
@@ -12925,7 +12925,7 @@
        inkscape:groupmode="layer"
        id="layer28"
        inkscape:label="square bar"
-       style="display:inline">
+       style="display:none">
       <path
          style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:url(#Suffering_2);stroke-width:1.06611;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="M -14.57175,-24.178516 H -150.93739"
@@ -13095,7 +13095,7 @@
          d="M 876.54062,520.81465 H 969.109"
          id="path212781" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;stop-opacity:1;vector-effect:none;-inkscape-stroke:none"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="M 876.18691,206.73398 H 995.29606"
          id="path212781-7" />
       <path
@@ -13136,27 +13136,27 @@
          id="path212797"
          sodipodi:nodetypes="cc" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="m 876.45415,0.38089567 h 91.62997"
          id="path212797-9" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="M 876.41513,26.175031 H 968.0451"
          id="path212797-0" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="m 876.97828,51.969163 h 91.62997"
          id="path212801" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="m 877.28476,77.763303 h 90.35285"
          id="path212803" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="m 875.76173,232.52811 h 92.7962"
          id="path212807" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;stop-opacity:1;vector-effect:none;-inkscape-stroke:none"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="M 876.38579,413.08707 H 995.94848"
          id="path212809" />
       <path
@@ -13212,7 +13212,7 @@
          d="M -14.410211,927.41075 H -124.64099"
          id="path18936" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="m 875.76173,258.32225 h 92.7962"
          id="path153335" />
       <path
@@ -13220,7 +13220,7 @@
          d="m 876.53773,284.11638 h 90.95226"
          id="path153337" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="M 921.89098,206.6572 V 309.58527"
          id="path153337-7" />
       <path
@@ -13232,11 +13232,11 @@
          d="m 876.53072,466.23665 h 91.01123"
          id="path153335-5" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="m 922.66,411.19413 v 81.34136"
          id="path153337-7-9" />
       <path
-         style="font-variation-settings:normal;display:inline;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;opacity:1;stop-opacity:1;vector-effect:none;-inkscape-stroke:none"
+         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:url(#path_3);stroke-width:0.419737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.794343;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="M 876.04108,602.68169 H 993.99676"
          id="path153337-8" />
       <path
@@ -13443,7 +13443,7 @@
        inkscape:groupmode="layer"
        id="layer26"
        inkscape:label="square text"
-       style="display:inline">
+       style="display:none">
       <text
          xml:space="preserve"
          transform="matrix(0,-0.30420927,0.30420927,0,-572.33539,1244.5315)"
@@ -13463,7 +13463,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;letter-spacing:17.9256px;white-space:pre;shape-inside:url(#rect10497-3);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1558.1087"
+           x="1558.1086"
            y="1437.0437"
            id="tspan496397"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -13475,7 +13475,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9456px;line-height:1.25;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect205865);shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:1;vector-effect:none;fill:#865e3c;fill-opacity:1;stroke:none;stroke-width:0.808499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="162.66934"
          y="0"><tspan
-           x="1583.8034"
+           x="1583.8033"
            y="1435.692"
            id="tspan496403"><tspan
              style="font-family:'IM FELL Double Pica';-inkscape-font-specification:'IM FELL Double Pica'"
@@ -13501,7 +13501,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect207231-0);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1635.5722"
+           x="1635.5721"
            y="1437.0437"
            id="tspan496411"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -13510,10 +13510,10 @@
          xml:space="preserve"
          transform="matrix(0,-0.30420927,0.30420927,0,-572.4171,560.08954)"
          id="text207229-0"
-         style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;letter-spacing:3.47896477px;white-space:pre;shape-inside:url(#rect207231-9);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;letter-spacing:3.47896px;white-space:pre;shape-inside:url(#rect207231-9);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1561.8288"
+           x="1561.8289"
            y="1437.0437"
            id="tspan496415"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -13693,7 +13693,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-1-4);display:inline;fill:#865e3c;fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1688.6203"
+           x="1688.6202"
            y="1437.0437"
            id="tspan496475"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -13717,14 +13717,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-4);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1632.2331"
+           x="1632.2332"
            y="1435.9248"
            id="tspan496483"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496481">Heaven of the 
 </tspan></tspan><tspan
            x="1656.6007"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496487"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496485">Yama Gods</tspan></tspan></text>
@@ -13735,14 +13735,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-6-6);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1632.2331"
+           x="1632.2332"
            y="1435.9248"
            id="tspan496491"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496489">Heaven of the 
 </tspan></tspan><tspan
            x="1677.8384"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496495"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496493">33 Gods</tspan></tspan></text>
@@ -13753,14 +13753,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-4);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1632.2331"
+           x="1632.2332"
            y="1435.9248"
            id="tspan496499"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496497">Heaven of the 
 </tspan></tspan><tspan
            x="1638.7521"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496503"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496501">5 Great Kings</tspan></tspan></text>
@@ -13771,7 +13771,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1678.7276"
+           x="1678.7275"
            y="1435.9248"
            id="tspan496507"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -13783,14 +13783,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-4-5);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1651.6291"
+           x="1651.6292"
            y="1435.9248"
            id="tspan496511"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496509">Retinue of 
 </tspan></tspan><tspan
            x="1638.6121"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496515"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496513">Maha Brhama</tspan></tspan></text>
@@ -13807,8 +13807,8 @@
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496517">Devas wielding power over
 </tspan></tspan><tspan
-           x="1574.836"
-           y="1473.3598"
+           x="1574.8361"
+           y="1473.3597"
            id="tspan496523"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496521">the Creation of Others</tspan></tspan></text>
@@ -13826,7 +13826,7 @@
              id="tspan496525">Devas Delighting
 </tspan></tspan><tspan
            x="1650.5718"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496531"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496529">in Creation</tspan></tspan></text>
@@ -13837,14 +13837,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-9);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1632.2331"
+           x="1632.2332"
            y="1435.9248"
            id="tspan496535"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496533">Heaven of the 
 </tspan></tspan><tspan
            x="1619.0269"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496539"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496537">Contended Gods</tspan></tspan></text>
@@ -13862,7 +13862,7 @@
              id="tspan496541">Devas of 
 </tspan></tspan><tspan
            x="1600.177"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496547"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496545">Unbouded Radiance</tspan></tspan></text>
@@ -13880,7 +13880,7 @@
              id="tspan496549">Devas of 
 </tspan></tspan><tspan
            x="1617.0803"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496555"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496553">limited Radiance</tspan></tspan></text>
@@ -13891,7 +13891,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-4-5);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1634.7398"
+           x="1634.7397"
            y="1435.9248"
            id="tspan496559"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -13910,7 +13910,7 @@
              id="tspan496561">Ministers of
 </tspan></tspan><tspan
            x="1638.6121"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496567"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496565">Maha Brahma</tspan></tspan></text>
@@ -13921,14 +13921,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-4-7);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1671.0462"
+           x="1671.0461"
            y="1435.9248"
            id="tspan496571"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496569">Devas of
 </tspan></tspan><tspan
            x="1630.9727"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496575"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496573">Radiant Glory</tspan></tspan></text>
@@ -13939,14 +13939,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-6-6-39);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1671.0462"
+           x="1671.0461"
            y="1435.9248"
            id="tspan496579"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496577">Devas of
 </tspan></tspan><tspan
            x="1610.2952"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496583"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496581">Unbounded Glory</tspan></tspan></text>
@@ -13957,14 +13957,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-4-51);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1671.0462"
+           x="1671.0461"
            y="1435.9248"
            id="tspan496587"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496585">Devas of
 </tspan></tspan><tspan
            x="1631.2667"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496591"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496589">Limited Glory</tspan></tspan></text>
@@ -13975,14 +13975,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-62);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1671.0462"
+           x="1671.0461"
            y="1435.9248"
            id="tspan496595"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496593">Devas of
 </tspan></tspan><tspan
            x="1599.5468"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496599"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496597">Streaming Radiance</tspan></tspan></text>
@@ -14074,7 +14074,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-4-4);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1608.4676"
+           x="1608.4677"
            y="1435.9248"
            id="tspan496643"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14092,8 +14092,8 @@
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496645">Deva not
 </tspan></tspan><tspan
-           x="1642.5893"
-           y="1473.3598"
+           x="1642.5894"
+           y="1473.3597"
            id="tspan496651"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496649">Falling Away</tspan></tspan></text>
@@ -14104,14 +14104,14 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-4-9);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1667.034"
+           x="1667.0341"
            y="1435.9248"
            id="tspan496655"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496653">Mindless
 </tspan></tspan><tspan
            x="1682.6489"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496659"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496657">Beings</tspan></tspan></text>
@@ -14129,7 +14129,7 @@
              id="tspan496661">Very Fruitful
 </tspan></tspan><tspan
            x="1687.7045"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496667"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496665">Devas
@@ -14153,7 +14153,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-4-7);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1595.4925"
+           x="1595.4926"
            y="1435.9248"
            id="tspan496675"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14165,7 +14165,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-0);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1622.388"
+           x="1622.3879"
            y="1435.9248"
            id="tspan496679"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14237,7 +14237,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-4-6);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1632.7282"
+           x="1632.7281"
            y="1437.0437"
            id="tspan496703"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14297,7 +14297,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-0-2);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1651.6712"
+           x="1651.6711"
            y="1435.9248"
            id="tspan496723"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14316,7 +14316,7 @@
              id="tspan496725">Neither-Perception-
 </tspan></tspan><tspan
            x="1594.5542"
-           y="1473.3598"
+           y="1473.3597"
            id="tspan496731"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496729">nor-non-Perception</tspan></tspan></text>
@@ -14448,7 +14448,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect59358-4);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1589.9665"
+           x="1589.9666"
            y="1437.0437"
            id="tspan496775"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14593,7 +14593,7 @@
          xml:space="preserve"
          transform="matrix(0,0.30420927,-0.30420927,0,1420.0343,-460.87637)"
          id="text4406-41-0-9-0-2"
-         style="font-style:normal;font-weight:normal;font-size:40.5879px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-4-5-8);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499;letter-spacing:17.39482385px"
+         style="font-style:normal;font-weight:normal;font-size:40.5879px;line-height:1.25;font-family:sans-serif;letter-spacing:17.3948px;white-space:pre;shape-inside:url(#rect4408-55-6-4-5-8);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1516.7922"
@@ -14623,7 +14623,7 @@
          style="font-style:normal;font-weight:normal;font-size:25.5124px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect4408-5-4-3-9);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="138.82074"
          y="0"><tspan
-           x="1656.2597"
+           x="1656.2596"
            y="1433.1213"
            id="tspan496839"><tspan
              style="font-family:'IM FELL Double Pica SC';-inkscape-font-specification:'IM FELL Double Pica SC'"
@@ -14632,7 +14632,7 @@
              id="tspan496837"> Factors of
 </tspan></tspan><tspan
            x="1665.422"
-           y="1466.4206"
+           y="1466.4207"
            id="tspan496843"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal'"
              id="tspan496841">Awkenings</tspan></tspan></text>
@@ -14681,7 +14681,7 @@
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496859">Relesing
 </tspan></tspan><tspan
-           x="1675.6352"
+           x="1675.6353"
            y="1461.3414"
            id="tspan496865"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14827,7 +14827,7 @@
          style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-4-7-3-6-94);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1679.6668"
+           x="1679.6667"
            y="1431.0693"
            id="tspan496927"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14905,7 +14905,7 @@
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan496949">Dwelling on
 </tspan></tspan><tspan
-           x="1652.2553"
+           x="1652.2552"
            y="1461.3414"
            id="tspan496955"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -14953,7 +14953,7 @@
          style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-4-4-2);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1637.4765"
+           x="1637.4764"
            y="1431.0693"
            id="tspan496975"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15022,7 +15022,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,399.59282,154.0517)"
          id="text4406-5-8-7-4"
-         style="font-style:normal;font-weight:normal;font-size:23.19309848px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-6-6-5-7);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-6-6-5-7);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1638.6542"
@@ -15034,10 +15034,10 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,399.77814,127.79792)"
          id="text4406-4-4-0-8"
-         style="font-style:normal;font-weight:normal;font-size:23.19309848px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-4-7-0);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-4-7-0);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1606.1126"
+           x="1606.1125"
            y="1431.0693"
            id="tspan497011"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15049,7 +15049,7 @@
          style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-0-3);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1615.9311"
+           x="1615.9312"
            y="1431.0693"
            id="tspan497015"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15064,10 +15064,10 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,397.71369,313.28884)"
          id="text4406-41-0-06-99-4"
-         style="font-style:normal;font-weight:normal;font-size:23.19309848px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-03-9);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-03-9);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1645.1773"
+           x="1645.1772"
            y="1431.0693"
            id="tspan497023"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15082,7 +15082,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,398.72977,340.39682)"
          id="text4406-41-0-06-1-9-6"
-         style="font-style:normal;font-weight:normal;font-size:23.19309848px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-4-7-8);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-4-7-8);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1634.0337"
@@ -15100,7 +15100,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,398.62326,367.81153)"
          id="text4406-41-0-06-9-1-0"
-         style="font-style:normal;font-weight:normal;font-size:23.19309848px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-0-2-6);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-0-2-6);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1621.3727"
@@ -15118,7 +15118,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,397.80742,395.15162)"
          id="text4406-41-0-06-0-7-3"
-         style="font-style:normal;font-weight:normal;font-size:23.19309848px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-1-6-5);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:23.1931px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-55-6-8-1-6-5);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1617.6072"
@@ -15136,7 +15136,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,400.39224,235.81724)"
          id="text4406-45"
-         style="font-style:normal;font-weight:normal;font-size:25.51240832px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-8);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:25.5124px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-8);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1616.926"
@@ -15148,7 +15148,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,398.83465,264.21387)"
          id="text4406-5-2"
-         style="font-style:normal;font-weight:normal;font-size:25.51240832px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-6-7);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:25.5124px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-6-7);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1635.724"
@@ -15160,7 +15160,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,398.42558,290.36853)"
          id="text4406-4-9"
-         style="font-style:normal;font-weight:normal;font-size:25.51240832px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-3);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:25.5124px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-3);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1668.2872"
@@ -15172,7 +15172,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,399.35325,209.63585)"
          id="text4406-4-9-7"
-         style="font-style:normal;font-weight:normal;font-size:25.51240832px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-3-6);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:25.5124px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-3-6);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1605.5027"
@@ -15184,7 +15184,7 @@
          xml:space="preserve"
          transform="matrix(0.30420927,0,0,0.30420927,396.41582,181.177)"
          id="text4406-4-9-2"
-         style="font-style:normal;font-weight:normal;font-size:25.51240832px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-3-61);display:inline;fill:url(#Origin_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
+         style="font-style:normal;font-weight:normal;font-size:25.5124px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4408-5-3-61);display:inline;fill:url(#Origin_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
            x="1661.2177"
@@ -15380,7 +15380,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect93657);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1458.0622"
+           x="1458.0623"
            y="1435.9248"
            id="tspan497135"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15404,7 +15404,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect103768);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1458.3493"
+           x="1458.3492"
            y="1435.9248"
            id="tspan497143"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15500,7 +15500,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect104188);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1463.3349"
+           x="1463.335"
            y="1435.9248"
            id="tspan497175"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15512,7 +15512,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect104190);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1465.0014"
+           x="1465.0013"
            y="1435.9248"
            id="tspan497179"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15524,7 +15524,7 @@
          style="font-style:normal;font-weight:normal;font-size:28.681px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect104192);display:inline;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1463.622"
+           x="1463.6219"
            y="1435.9248"
            id="tspan497183"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15549,7 +15549,9 @@
          id="text207945"><tspan
            sodipodi:role="line"
            id="tspan207943"
-           style="stroke-width:1.042"></tspan></text>
+           style="stroke-width:1.042"
+           x="909.77673"
+           y="-37.286274" /></text>
       <text
          xml:space="preserve"
          transform="matrix(0,0.30420927,-0.30420927,0,1069.0686,379.87297)"
@@ -15587,7 +15589,7 @@
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan497197">Danger of
 </tspan></tspan><tspan
-           x="1609.0993"
+           x="1609.0992"
            y="1476.1292"
            id="tspan497203"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15611,7 +15613,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect286032);display:inline;fill:url(#Truth_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1621.8349"
+           x="1621.835"
            y="1437.0437"
            id="tspan497211"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15647,7 +15649,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect286038);display:inline;fill:#865e3c;fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1686.544"
+           x="1686.5439"
            y="1437.0437"
            id="tspan497223"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15717,7 +15719,7 @@
        inkscape:groupmode="layer"
        id="layer15"
        inkscape:label="square 2"
-       style="display:inline">
+       style="display:none">
       <path
          id="rect8476"
          style="display:inline;opacity:1;fill:none;stroke:url(#Cessation_1);stroke-width:1.00015;stroke-opacity:0.794343;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
@@ -15836,7 +15838,7 @@
        inkscape:groupmode="layer"
        id="layer16"
        inkscape:label="square 2 text"
-       style="display:inline">
+       style="display:none">
       <text
          xml:space="preserve"
          transform="matrix(0.29524748,0,0,0.29524748,15.198046,394.65504)"
@@ -15856,7 +15858,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect56509);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1686.544"
+           x="1686.5439"
            y="1437.0437"
            id="tspan497251"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15882,7 +15884,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect60531);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1524.5263"
+           x="1524.5262"
            y="1437.0437"
            id="tspan497261"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15906,7 +15908,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect64220);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1578.1009"
+           x="1578.101"
            y="1437.0437"
            id="tspan497269"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15918,7 +15920,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect64226);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1564.9704"
+           x="1564.9705"
            y="1437.0437"
            id="tspan497273"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15944,7 +15946,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10489);display:inline;fill:url(#Origin_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1551.5329"
+           x="1551.533"
            y="1437.0437"
            id="tspan497283"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -15968,7 +15970,7 @@
          style="font-style:normal;font-weight:normal;font-size:29.9456px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10493);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1632.5528"
+           x="1632.5529"
            y="1437.0437"
            id="tspan497291"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -16040,7 +16042,7 @@
          style="font-style:normal;font-weight:normal;font-size:35.8456px;line-height:1.25;font-family:sans-serif;letter-spacing:49.4103px;white-space:pre;shape-inside:url(#rect26440);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.808499"
          x="63.701172"
          y="0"><tspan
-           x="1534.4848"
+           x="1534.4847"
            y="1442.2638"
            id="tspan497315"><tspan
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00015735626 0 0 0 0.0001335144 -0.00010871887"
@@ -16061,7 +16063,7 @@
        inkscape:groupmode="layer"
        id="layer27"
        inkscape:label="corner bar"
-       style="display:inline">
+       style="display:none">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:url(#Origin_1);stroke-width:4.06586;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -16380,14 +16382,14 @@
          style="font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'IM FELL English SC';font-variation-settings:normal;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect82167-25);display:inline;vector-effect:none;fill:url(#Origin_1);fill-opacity:1;stroke:none;stroke-width:2.50589;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
          x="89.75415"
          y="0"><tspan
-           x="2832.6745"
-           y="482.03459"
+           x="2832.6746"
+           y="482.03458"
            id="tspan497321"><tspan
              style="font-family:'IM FELL English SC';text-align:center;text-anchor:middle"
              id="tspan497319">6 
 </tspan></tspan><tspan
            x="2753.5286"
-           y="535.36796"
+           y="535.36798"
            id="tspan497325"><tspan
              style="font-family:'IM FELL English SC';text-align:center;text-anchor:middle"
              id="tspan497323">Sens Bases</tspan></tspan></text>
@@ -17325,7 +17327,7 @@
            x="63.701172"
            y="0"><tspan
              x="1650.3987"
-             y="1433.216"
+             y="1433.2159"
              id="tspan497329"><tspan
                style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
                id="tspan497327">Mindfulness</tspan></tspan></text>
@@ -17337,7 +17339,7 @@
            x="220.05099"
            y="0"><tspan
              x="1713.0826"
-             y="1429.2409"
+             y="1429.2408"
              id="tspan497335"><tspan
                style="font-family:'IM FELL Double Pica';-inkscape-font-specification:'IM FELL Double Pica';text-align:center;text-anchor:middle"
                id="tspan497331">7</tspan><tspan
@@ -17362,8 +17364,8 @@
            style="font-style:normal;font-weight:normal;font-size:25.6194px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect161390-1);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:0.914103"
            x="63.701172"
            y="0"><tspan
-             x="1644.857"
-             y="1433.216"
+             x="1644.8571"
+             y="1433.2159"
              id="tspan497347"><tspan
                style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
                id="tspan497345">Investigation</tspan></tspan></text>
@@ -17375,7 +17377,7 @@
            x="63.701172"
            y="0"><tspan
              x="1681.2158"
-             y="1433.216"
+             y="1433.2159"
              id="tspan497351"><tspan
                style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
                id="tspan497349">Effort</tspan></tspan></text>
@@ -17387,7 +17389,7 @@
            x="63.701172"
            y="0"><tspan
              x="1653.3134"
-             y="1433.216"
+             y="1433.2159"
              id="tspan497355"><tspan
                style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
                id="tspan497353">Unification</tspan></tspan></text>
@@ -17401,7 +17403,7 @@
            inkscape:transform-center-x="1.1660279"
            inkscape:transform-center-y="-1.2479721"><tspan
              x="1702.6821"
-             y="1433.216"
+             y="1433.2159"
              id="tspan497359"><tspan
                style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
                id="tspan497357">Joy</tspan></tspan></text>
@@ -17413,7 +17415,7 @@
            x="63.701172"
            y="0"><tspan
              x="1655.2742"
-             y="1433.2215"
+             y="1433.2216"
              id="tspan497363"><tspan
                style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
                id="tspan497361">Equanimity</tspan></tspan></text>
@@ -17425,7 +17427,7 @@
            x="63.701172"
            y="0"><tspan
              x="1652.4628"
-             y="1433.216"
+             y="1433.2159"
              id="tspan497367"><tspan
                style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
                id="tspan497365">Tranquility</tspan></tspan></text>
@@ -17571,7 +17573,7 @@
        inkscape:groupmode="layer"
        id="layer34"
        inkscape:label="corner  text"
-       style="display:inline">
+       style="display:none">
       <g
          id="g193160"
          transform="matrix(0.95191739,0,0,0.95191739,4.4580579,3.3281345)"
@@ -17583,7 +17585,7 @@
          style="font-style:normal;font-weight:normal;font-size:24.6799px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect156570-5);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.899728"
          x="63.701172"
          y="0"><tspan
-           x="1678.1142"
+           x="1678.1143"
            y="1432.3848"
            id="tspan497371"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -17631,7 +17633,7 @@
          style="font-style:normal;font-weight:normal;font-size:24.6799px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect156570-5-0-8-0);display:inline;fill:url(#Origin_1);fill-opacity:1;stroke:none;stroke-width:0.692973"
          x="63.701172"
          y="0"><tspan
-           x="1693.6114"
+           x="1693.6115"
            y="1432.3848"
            id="tspan497387"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -17685,7 +17687,7 @@
          style="font-style:normal;font-weight:normal;font-size:24.6799px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect161390-5);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:0.899728"
          x="63.701172"
          y="0"><tspan
-           x="1667.2143"
+           x="1667.2144"
            y="1432.3848"
            id="tspan497407"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -17732,7 +17734,7 @@
          id="text67707"
          style="font-size:27.6773px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'IM FELL English SC';font-variation-settings:normal;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect67709);display:inline;opacity:1;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:2.80088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"><tspan
            x="2703.0645"
-           y="469.6002"
+           y="469.60019"
            id="tspan497423"><tspan
              style="font-family:'IM FELL English SC'"
              id="tspan497421">Prevent the Unskilfull</tspan></tspan></text>
@@ -17751,14 +17753,14 @@
              style="font-family:'IM FELL English SC'"
              id="tspan497427"> 
 </tspan></tspan><tspan
-           x="2785.164"
-           y="535.7982"
+           x="2785.1641"
+           y="535.79822"
            id="tspan497433"><tspan
              style="font-family:'IM FELL English SC'"
              id="tspan497431">Right 
 </tspan></tspan><tspan
            x="2753.3098"
-           y="589.13158"
+           y="589.13159"
            id="tspan497437"><tspan
              style="font-family:'IM FELL English SC'"
              id="tspan497435">Exertions</tspan></tspan></text>
@@ -17770,7 +17772,7 @@
          x="39.340145"
          y="0"><tspan
            x="2729.4438"
-           y="469.6002"
+           y="469.60019"
            id="tspan497441"><tspan
              style="font-family:'IM FELL English SC'"
              id="tspan497439">Arouse the Skilfull</tspan></tspan></text>
@@ -17782,7 +17784,7 @@
          x="127.16459"
          y="0"><tspan
            x="2722.4231"
-           y="469.6002"
+           y="469.60019"
            id="tspan497445"><tspan
              style="font-family:'IM FELL English SC';text-align:center;text-anchor:middle"
              id="tspan497443">Develop the Skilfull</tspan></tspan></text>
@@ -17793,8 +17795,8 @@
          style="font-size:27.6773px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'IM FELL English SC';font-variation-settings:normal;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect94347-6);display:inline;vector-effect:none;fill:url(#Path_1);fill-opacity:1;stroke:none;stroke-width:2.80088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
          x="127.16459"
          y="0"><tspan
-           x="2765.883"
-           y="469.6002"
+           x="2765.8831"
+           y="469.60019"
            id="tspan497449"><tspan
              style="font-family:'IM FELL English SC';text-align:center;text-anchor:middle"
              id="tspan497447">Abandon the Unskilfull</tspan></tspan></text>
@@ -18045,7 +18047,7 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="text curve"
-       style="display:none">
+       style="display:inline">
       <ellipse
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.948645;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle4716"
@@ -18311,7 +18313,7 @@
          cy="412.85919"
          r="377.12476" />
       <circle
-         style="display:inline;fill:none;stroke:url(#Suffering_1);stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-opacity:0.794343;stroke-dashoffset:0"
+         style="display:inline;fill:none;stroke:url(#Suffering_1);stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:0.794343"
          inkscape:label="MajorDivCircle1:R13.229166666666666"
          id="circle402156"
          transform="scale(-1)"
@@ -18932,14 +18934,14 @@
              style="font-size:55.593px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal'"
              id="tspan497481">
 </tspan></tspan><tspan
-           x="1515.2907"
+           x="1515.2906"
            y="1528.2981"
            id="tspan497487"><tspan
              style="font-size:55.593px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal'"
              id="tspan497485">Noble
 </tspan></tspan><tspan
            x="1501.9896"
-           y="1598.8598"
+           y="1598.8597"
            id="tspan497491"><tspan
              style="font-size:55.593px;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal'"
              id="tspan497489">Truths</tspan></tspan></text>
@@ -19125,7 +19127,7 @@
          x="63.701172"
          y="0"><tspan
            x="1597.0706"
-           y="1437.8095"
+           y="1437.8094"
            id="tspan497537"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan497535">Craving for</tspan></tspan></text>
@@ -19137,7 +19139,7 @@
          x="63.701172"
          y="0"><tspan
            x="1604.6079"
-           y="1437.8095"
+           y="1437.8094"
            id="tspan497541"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan497539">Sensuality</tspan></tspan></text>
@@ -19160,7 +19162,7 @@
          style="font-style:normal;font-weight:normal;font-size:26.703px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect156058);fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:1.02171"
          x="63.701172"
          y="0"><tspan
-           x="1592.1717"
+           x="1592.1718"
            y="1434.1747"
            id="tspan497549"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19221,7 +19223,7 @@
          x="63.701172"
          y="0"><tspan
            x="1597.0706"
-           y="1437.8095"
+           y="1437.8094"
            id="tspan497569"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan497567">Craving for</tspan></tspan></text>
@@ -19233,7 +19235,7 @@
          x="63.701172"
          y="0"><tspan
            x="1610.6031"
-           y="1437.8095"
+           y="1437.8094"
            id="tspan497573"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan497571">Becoming</tspan></tspan></text>
@@ -19245,7 +19247,7 @@
          x="63.701172"
          y="0"><tspan
            x="1597.0706"
-           y="1437.8095"
+           y="1437.8094"
            id="tspan497577"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan497575">Craving for</tspan></tspan></text>
@@ -19257,7 +19259,7 @@
          x="63.701172"
          y="0"><tspan
            x="1573.6161"
-           y="1437.8095"
+           y="1437.8094"
            id="tspan497581"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
              id="tspan497579">Non-Becoming</tspan></tspan></text>
@@ -19298,7 +19300,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.08770276,0.32455028,-0.32455028,0.08770276,797.3537,11.180161)"><tspan
-           x="1670.1214"
+           x="1670.1215"
            y="1426.9052"
            id="tspan497585"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19322,7 +19324,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.1295103,0.31024465,-0.31024465,0.1295103,740.52761,-34.520135)"><tspan
-           x="1670.5727"
+           x="1670.5728"
            y="1426.9052"
            id="tspan497593"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19346,7 +19348,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.0464439,0.33296789,-0.33296789,0.0464439,843.68815,61.835108)"><tspan
-           x="1693.2613"
+           x="1693.2614"
            y="1426.9052"
            id="tspan497601"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19382,7 +19384,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.15135296,0.30019484,-0.30019484,0.15135296,718.88223,-60.589552)"><tspan
-           x="1650.2807"
+           x="1650.2806"
            y="1426.9052"
            id="tspan497613"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19478,7 +19480,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.27315897,0.19598176,-0.19598176,0.27315897,464.43386,-142.84091)"><tspan
-           x="1613.5871"
+           x="1613.5872"
            y="1426.9052"
            id="tspan497645"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19548,7 +19550,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.31453136,0.118721,-0.118721,0.31453136,320.30154,-133.86795)"><tspan
-           x="1705.7453"
+           x="1705.7452"
            y="1426.9052"
            id="tspan497665"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19572,7 +19574,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.3231468,0.0927405,-0.0927405,0.3231468,277.93405,-129.26962)"><tspan
-           x="1704.1114"
+           x="1704.1115"
            y="1426.9052"
            id="tspan497673"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19584,7 +19586,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.32738495,0.07644446,-0.07644446,0.32738495,250.97473,-120.46177)"><tspan
-           x="1688.8653"
+           x="1688.8654"
            y="1426.9052"
            id="tspan497677"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19620,7 +19622,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.33498932,0.02840447,-0.02840447,0.33498932,172.89701,-93.685759)"><tspan
-           x="1688.7796"
+           x="1688.7795"
            y="1426.9052"
            id="tspan497689"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19654,7 +19656,7 @@
          style="font-style:normal;font-weight:normal;font-size:32.6339px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect115072);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:1.52596"
          x="63.701172"
          y="0"><tspan
-           x="1636.9925"
+           x="1636.9926"
            y="1439.4222"
            id="tspan497697"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle;stroke-width:1.24865"
@@ -19690,7 +19692,7 @@
          style="font-style:normal;font-weight:normal;font-size:32.6339px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect116734);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:1.52596"
          x="63.701172"
          y="0"><tspan
-           x="1624.5124"
+           x="1624.5125"
            y="1431.9092"
            id="tspan497709"><tspan
              style="line-height:0.9;font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle;stroke-width:1.24865"
@@ -19708,7 +19710,7 @@
          style="font-style:normal;font-weight:normal;font-size:32.6339px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect116744);display:inline;fill:url(#Suffering_1);fill-opacity:1;stroke:none;stroke-width:1.52596"
          x="63.701172"
          y="0"><tspan
-           x="1575.4693"
+           x="1575.4694"
            y="1439.4222"
            id="tspan497717"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle;stroke-width:1.24865"
@@ -19788,7 +19790,7 @@
          style="font-style:normal;font-weight:normal;font-size:22.5949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect48735);fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:1.02171"
          x="63.701172"
          y="0"><tspan
-           x="1584.1197"
+           x="1584.1198"
            y="1430.54"
            id="tspan497737"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19824,7 +19826,7 @@
          style="font-style:normal;font-weight:normal;font-size:22.5949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect48735-2);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:1.02171"
          x="63.701172"
          y="0"><tspan
-           x="1650.9942"
+           x="1650.9941"
            y="1430.54"
            id="tspan497749"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19908,7 +19910,7 @@
          style="font-style:normal;font-weight:normal;font-size:22.5949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect48735-3);display:inline;fill:url(#Cessation_1);fill-opacity:1;stroke:none;stroke-width:1.02171"
          x="63.701172"
          y="0"><tspan
-           x="1624.935"
+           x="1624.9351"
            y="1430.54"
            id="tspan497781"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -19967,7 +19969,7 @@
          y="0"
          x="63.701172"
          transform="matrix(0.31522679,-0.11686206,0.11686206,0.31522679,-24.963707,65.423832)"><tspan
-           x="1629.9029"
+           x="1629.903"
            y="1426.9052"
            id="tspan497793"><tspan
              style="font-family:'IM FELL English SC';-inkscape-font-specification:'IM FELL English SC, Normal';text-align:center;text-anchor:middle"
@@ -20019,7 +20021,7 @@
        inkscape:label="outer ring"
        inkscape:groupmode="layer"
        id="layer1"
-       style="display:inline">
+       style="display:none">
       <path
          style="fill:#fffffe;fill-opacity:1;stroke:url(#Origin_3);stroke-width:0.690999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 387.48496,749.38622 -0.85609,7.97729"
@@ -20332,7 +20334,7 @@
        inkscape:groupmode="layer"
        id="layer29"
        inkscape:label="outer text"
-       style="display:inline">
+       style="display:none">
       <text
          xml:space="preserve"
          id="text155910"
@@ -20497,7 +20499,7 @@
        inkscape:groupmode="layer"
        id="layer13"
        inkscape:label="4 Noble Truth color"
-       style="display:inline">
+       style="display:none">
       <path
          style="font-variation-settings:normal;opacity:1;fill:url(#Path-back);fill-opacity:1;fill-rule:evenodd;stroke:url(#Truth_3);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="m 462.78079,465.68613 c 12.07085,-12.11065 24.36781,-24.45018 27.32655,-27.42119 4.28252,-4.30026 5.35471,-5.28983 5.25774,-4.85252 -0.29108,1.31273 -2.50926,7.69591 -3.37256,9.70501 -8.02381,18.67354 -22.51313,33.18625 -41.05968,41.126 -2.42954,1.04009 -9.33008,3.46208 -9.86385,3.46208 -0.12938,0 9.64094,-9.90871 21.7118,-22.01938 z"
@@ -20535,7 +20537,7 @@
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="4 Noble Truths"
-       style="display:inline">
+       style="display:none">
       <path
          style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:url(#Truth_1);stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.794343"
          d="m 357.74788,412.86007 62.76421,-62.98153 62.78722,62.98156 -62.78719,62.98154 z"
